@@ -1,0 +1,19 @@
+def main():
+    t = int(input())
+    for _ in range(t):
+        n = int(input())
+        arr = list(map(int, input().split()))
+        sortByFrequency(arr)
+
+def sortByFrequency(arr):
+    freqMap = {}
+    for num in arr:
+        freqMap[num] = freqMap.get(num, 0) + 1
+    arr.sort(key=lambda x: (freqMap[x], x))
+    for num in arr:
+        print(num, end=" ")
+    print()
+
+if __name__ == "__main__":
+    main()
+

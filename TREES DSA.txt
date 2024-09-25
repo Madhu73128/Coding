@@ -1,0 +1,1410 @@
+BST OPERATIONS
+
+import java.io.*;
+import java.util.*;
+
+class Node
+{
+    int data;
+    Node left;
+    Node right;
+    Node(int data)
+    {
+        this.data=data;
+        this.left=null;
+        this.right=null;
+    }
+}
+public class Main 
+{
+    public static void main(String[] args)
+    {
+        Scanner sc=new Scanner(System.in);
+        int t=sc.nextInt();
+        for(int i=1;i<=t;i++)
+        {
+            System.out.println("Case #"+i+":");
+            int n=sc.nextInt();
+            Node root=null;
+            while(n-->0)
+            {
+                int op=sc.nextInt();
+                if(op==1)
+                {
+                    root=insertNodes(root,sc.nextInt());
+                }
+                else if(op==2)
+                {
+                    root=deleteNodes(root,sc.nextInt());
+                }
+                else if(op==3)
+                {
+                    if(searchNodes(root,sc.nextInt())!=null)
+                    System.out.println("Yes");
+                    else
+                    System.out.println("No");
+                }
+                else
+                {
+                    PreOrder(root);
+                    System.out.println();
+                }
+            }
+        }
+    }
+    public static Node insertNodes(Node root,int data)
+    {
+        if(root==null)
+        {
+            return new Node(data);
+        }
+        if(data<root.data)
+        {
+            root.left=insertNodes(root.left,data);
+        }
+        else
+        {
+            root.right=insertNodes(root.right,data);
+        }
+        return root;
+    }
+    public static Node deleteNodes(Node root,int data)
+    {
+        if(root==null)
+        {
+            return root;
+        }
+        if(data<root.data)
+        {
+            root.left=deleteNodes(root.left,data);
+        }
+        else if(data>root.data)
+        {
+            root.right=deleteNodes(root.right,data);
+        }
+        else
+        {
+            if(root.left==null&&root.right==null)
+            {
+                return null;
+            }
+            else if(root.left!=null&&root.right==null)
+            {
+                return root.left;
+            }
+            else if(root.left==null&&root.right!=null)
+            {
+                return root.right;
+            }
+            else
+            {
+                Node s=getSmallest(root.right);
+                root.data=s.data;
+                root.right=deleteNodes(root.right,s.data);
+                return root;
+            }
+        }
+        return root;
+    }
+    public static Node getSmallest(Node root)
+    {
+        if(root==null||root.left==null)
+        {
+            return root;
+        }
+        return getSmallest(root.left);
+    }
+    public static Node searchNodes(Node root,int data)
+    {
+        if(root==null||root.data==data)
+        {
+            return root;
+        }
+        if(data<root.data)
+        {
+            return searchNodes(root.left,data);
+        }
+        else
+        {
+            return searchNodes(root.right,data);
+        }
+    }
+    public static void PreOrder(Node root)
+    {
+        if(root==null)
+        {
+            return;
+        }
+        System.out.print(root.data+" ");
+        PreOrder(root.left);
+        PreOrder(root.right);
+    }
+}
+
+
+
+
+TREE TRAVERSALS
+
+import java.io.*;
+import java.util.*;
+
+class Node
+{
+    int data;
+    Node left;
+    Node right;
+    Node(int data)
+    {
+        this.data=data;
+        this.left=null;
+        this.right=null;
+    }
+}
+public class Main {
+
+    public static void main(String[] args) {
+        Scanner sc=new Scanner(System.in);
+        int t=sc.nextInt();
+        while(t-->0)
+        {
+            int n=sc.nextInt();
+            int a[]=new int[n];
+            Node root=null;
+            for(int i=0;i<n;i++)
+            {
+                a[i]=sc.nextInt();
+                root=insertNodes(root,a[i]);
+            }
+            PreOrder(root);
+            System.out.println();
+            InOrder(root);
+            System.out.println();
+            PostOrder(root);
+            System.out.println("\n");
+        }
+        /* Enter your code here. Read input from STDIN. Print output to STDOUT. Your class should be named Main. */
+    }
+    public static Node insertNodes(Node root,int data)
+    {
+        if(root==null)
+        return new Node(data);
+        else
+        {
+            Node curr;
+            if(data<=root.data)
+            {
+                curr=insertNodes(root.left,data);
+                root.left=curr;
+            }
+            else
+            {
+                curr=insertNodes(root.right,data);
+                root.right=curr;
+            }
+        }
+        return root;
+    }
+    public static void PreOrder(Node root)
+    {
+        if(root==null)
+        return;
+        System.out.print(root.data+" ");
+        PreOrder(root.left);
+        PreOrder(root.right);
+    }
+    public static void InOrder(Node root)
+    {
+        if(root==null)
+        return;
+        InOrder(root.left);
+        System.out.print(root.data+" ");
+        InOrder(root.right);
+    }
+    public static void PostOrder(Node root)
+    {
+        if(root==null)
+        return;
+        PostOrder(root.left);
+        PostOrder(root.right);
+        System.out.print(root.data+" ");
+    }
+}
+
+
+FBT
+
+
+import java.io.*;
+import java.util.*;
+
+class Node
+{
+    int data;
+    Node left;
+    Node right;
+    Node(int data)
+    {
+        this.data=data;
+        this.left=null;
+        this.right=null;
+    }
+}
+public class Main 
+{
+    public static void main(String[] args) 
+    {
+        Scanner sc=new Scanner(System.in);
+        int t=sc.nextInt();
+        while(t-->0)
+        {
+            int n=sc.nextInt();
+            int a[]=new int[n];
+            Node root=null;
+            for(int i=0;i<n;i++)
+            {
+                a[i]=sc.nextInt();
+                root=insertNodes(root,a[i]);
+            }
+            if(isFBT(root))
+            {
+                System.out.println("True");
+            }
+            else
+            {
+                System.out.println("False");
+            }
+        }
+        /* Enter your code here. Read input from STDIN. Print output to STDOUT. Your class should be named Main. */
+    }
+    public static Node insertNodes(Node root,int data)
+    {
+        if(root==null)
+        return new Node(data);
+        else
+        {
+            Node curr;
+            if(data<=root.data)
+            {
+                curr=insertNodes(root.left,data);
+                root.left=curr;
+            }
+            else
+            {
+                curr=insertNodes(root.right,data);
+                root.right=curr;
+            }
+            return root;
+        }
+    }
+    public static boolean isFBT(Node root)
+    {
+        if(root==null)
+        return true;
+        Queue<Node> q=new LinkedList<>();
+        q.add(root);
+        while(!q.isEmpty())
+        {
+            Node temp=q.remove();
+            if(temp.left==null&&temp.right==null)
+            continue;
+            /*if(temp.left!=null&&temp.right!=null)
+            continue;
+            if(temp.left!=null||temp.right!=null)
+            return false;*/
+            if(temp.left==null||temp.right==null)
+            return false;
+            if(temp.left!=null)
+            q.add(temp.left);
+            if(temp.right!=null)
+            q.add(temp.right);
+        }
+        return true;
+    }
+}
+
+
+CBT
+
+import java.io.*;
+import java.util.*;
+class Node
+{
+    int data;
+    Node left;
+    Node right;
+    Node(int data)
+    {
+        this.data=data;
+        this.left=null;
+        this.right=null;
+    }
+}
+public class Main 
+{
+    public static void main(String[] args) 
+    {
+        Scanner sc=new Scanner(System.in);
+        int t=sc.nextInt();
+        while(t-->0)
+        {
+            int n=sc.nextInt();
+            int a[]=new int[n];
+            Node root=null;
+            for(int i=0;i<n;i++)
+            {
+                a[i]=sc.nextInt();
+                root=insertNodes(root,a[i]);
+            }
+            if(isCBT(root,0,nodesCount(root)))
+            {
+                System.out.println("Yes");
+            }
+            else
+            {
+                System.out.println("No");
+            }
+        }
+        /* Enter your code here. Read input from STDIN. Print output to STDOUT. Your class should be named Main. */
+    }
+    public static Node insertNodes(Node root,int data)
+    {
+        if(root==null)
+        return new Node(data);
+        else
+        {
+            Node curr;
+            if(data<=root.data)
+            {
+                curr=insertNodes(root.left,data);
+                root.left=curr;
+            }
+            else
+            {
+                curr=insertNodes(root.right,data);
+                root.right=curr;
+            }
+            return root;
+        }
+    }
+    public static int nodesCount(Node root)
+    {
+        if(root==null)
+        return 0;
+        return 1+nodesCount(root.left)+nodesCount(root.right);
+    }
+    public static boolean isCBT(Node root,int idx,int nodescount)
+    {
+        if(root==null)
+        return true;
+        if(idx>=nodescount)
+        return false;
+        return (isCBT(root.left,2*idx+1,nodescount)&&isCBT(root.right,2*idx+2,nodescount));
+    }
+}
+
+HEIGHT OF TREE
+
+
+import java.io.*;
+import java.util.*;
+
+class Node
+{
+    int data;
+    Node left;
+    Node right;
+    Node(int data)
+    {
+        this.data=data;
+        this.left=null;
+        this.right=null;
+    }
+}
+public class Main {
+
+    public static void main(String[] args) 
+    {
+        Scanner sc=new Scanner(System.in);
+        int t=sc.nextInt();
+        while(t-->0)
+        {
+            int n=sc.nextInt();
+            int a[]=new int[n];
+            Node root=null;
+            for(int i=0;i<n;i++)
+            {
+                a[i]=sc.nextInt();
+                root=insertNodes(root,a[i]);
+            }
+            System.out.println(height(root));
+        }
+        /* Enter your code here. Read input from STDIN. Print output to STDOUT. Your class should be named Main. */
+    }
+    public static Node insertNodes(Node root,int data)
+    {
+        if(root==null)
+        return new Node(data);
+        else
+        {
+            Node curr;
+            if(data<=root.data)
+            {
+                curr=insertNodes(root.left,data);
+                root.left=curr;
+            }
+            else
+            {
+                curr=insertNodes(root.right,data);
+                root.right=curr;
+            }
+            return root;
+        }
+    }
+    public static int height(Node root)
+    {
+        if(root==null)
+        return -1;
+        return Math.max(height(root.left),height(root.right))+1;
+    }
+}
+
+
+DEPTH OF TREE NODES
+
+import java.io.*;
+import java.util.*;
+class Node
+{
+    int data;
+    Node left;
+    Node right;
+    int level;
+    Node(int data)
+    {
+        this.data=data;
+        this.left=null;
+        this.right=null;
+        this.level=0;
+    }
+}
+public class Main {
+
+    public static void main(String[] args) {
+        Scanner sc=new Scanner(System.in);
+        int t=sc.nextInt();
+        while(t-->0)
+        {
+            int n=sc.nextInt();
+            int a[]=new int[n];
+            Node root=null;
+            for(int i=0;i<n;i++)
+            {
+                a[i]=sc.nextInt();
+                root=insertNodes(root,a[i],1);
+            }
+            DON(root,a);
+            System.out.println();
+        }
+        /* Enter your code here. Read input from STDIN. Print output to STDOUT. Your class should be named Main. */
+    }
+    public static Node insertNodes(Node root,int data,int level)
+    {
+        if(root==null)
+        return new Node(data);
+        else
+        {
+            Node curr;
+            if(data<=root.data)
+            {
+                curr=insertNodes(root.left,data,level+1);
+                root.left=curr;
+            }
+            else
+            {
+                curr=insertNodes(root.right,data,level+1);
+                root.right=curr;
+            }
+            curr.level=level;
+            return root;
+        }
+    }
+    public static void DON(Node root,int a[])
+    {
+        Queue<Node> q=new LinkedList<>();
+        q.add(root);
+        HashMap<Integer,Integer> hm=new HashMap<>();
+        while(!q.isEmpty())
+        {
+            
+                Node temp=q.remove();
+                hm.put(temp.data,temp.level);
+                if(temp.left!=null)
+                q.add(temp.left);
+                if(temp.right!=null)
+                q.add(temp.right);
+        }
+        for(int i=0;i<a.length;i++)
+        {
+            System.out.print(hm.get(a[i])+" ");
+        }
+    }
+}
+
+LEVEL ORDER TRAVERSAL OF TREE
+
+
+import java.io.*;
+import java.util.*;
+
+class Node
+{
+    int data;
+    Node left;
+    Node right;
+    Node(int data)
+    {
+        this.data=data;
+        this.left=null;
+        this.right=null;
+    }
+}
+public class Main
+{
+    public static void main(String[] args)
+    {
+        Scanner sc=new Scanner(System.in);
+        int t=sc.nextInt();
+        while(t-->0)
+        {
+            int n=sc.nextInt();
+            int a[]=new int[n];
+            Node root=null;
+            for(int i=0;i<n;i++)
+            {
+                a[i]=sc.nextInt();
+                root=insertNodes(root,a[i]);
+            }
+            LOT(root);
+            System.out.println();
+        }
+        /* Enter your code here. Read input from STDIN. Print output to STDOUT. Your class should be named Main. */
+    }
+    public static Node insertNodes(Node root,int data)
+    {
+        if(root==null)
+        return new Node(data);
+        else
+        {
+            Node curr;
+            if(data<=root.data)
+            {
+                curr=insertNodes(root.left,data);
+                root.left=curr;
+            }
+            else
+            {
+                curr=insertNodes(root.right,data);
+                root.right=curr;
+            }
+            return root;
+        }
+    }
+    public static void LOT(Node root)
+    {
+        Queue<Node> q=new LinkedList<>();
+        q.add(root);
+        while(!q.isEmpty())
+        {
+            int size=q.size();
+            while(size-->0)
+            {
+                Node temp=q.remove();
+                System.out.print(temp.data+" ");
+                if(temp.left!=null)
+                q.add(temp.left);
+                if(temp.right!=null)
+                q.add(temp.right);
+            }
+            System.out.println();
+        }
+    }
+}
+
+
+ZIG ZAG LEVEL ORDER TRAVERSAL OF TREE
+
+
+import java.io.*;
+import java.util.*;
+class Node
+{
+    int data;
+    Node left;
+    Node right;
+    Node(int data)
+    {
+        this.data=data;
+        this.left=null;
+        this.right=null;
+    }
+}
+public class Main
+{
+    public static void main(String[] args)
+    {
+        Scanner sc=new Scanner(System.in);
+        int t=sc.nextInt();
+        while(t-->0)
+        {
+            int n=sc.nextInt();
+            int a[]=new int[n];
+            Node root=null;
+            for(int i=0;i<n;i++)
+            {
+                a[i]=sc.nextInt();
+                root=insertNodes(root,a[i]);
+            }
+            ZZLOT(root);
+            System.out.println();
+        }
+        /* Enter your code here. Read input from STDIN. Print output to STDOUT. Your class should be named Main. */
+    }
+    public static Node insertNodes(Node root,int data)
+    {
+        if(root==null)
+        return new Node(data);
+        else
+        {
+            Node curr;
+            if(data<=root.data)
+            {
+                curr=insertNodes(root.left,data);
+                root.left=curr;
+            }
+            else
+            {
+                curr=insertNodes(root.right,data);
+                root.right=curr;
+            }
+            return root;
+        }
+    }
+    public static void ZZLOT(Node root)
+    {
+        Queue<Node> q=new LinkedList<>();
+        q.add(root);
+        int level=1;
+        LinkedList<Integer> ll=new LinkedList<>();
+        while(!q.isEmpty())
+        {
+            int size=q.size();
+            LinkedList<Integer> subll=new LinkedList<>();
+            while(size-->0)
+            {
+                Node temp=q.remove();
+                subll.add(temp.data);
+                if(temp.left!=null)
+                q.add(temp.left);
+                if(temp.right!=null)
+                q.add(temp.right);
+            }
+            if(level%2!=0)
+            {
+                Collections.reverse(subll);
+            }
+            ll.addAll(subll);
+            level++;
+        }
+        for(int i=0;i<ll.size();i++)
+        {
+            System.out.print(ll.get(i)+" ");
+        }
+    }
+}
+
+
+BOTTOM UP LEVEL ORDER TRAVERSAL OF TREE
+
+
+import java.io.*;
+import java.util.*;
+class Node
+{
+    int data;
+    Node left;
+    Node right;
+    Node(int data)
+    {
+        this.data=data;
+        this.left=null;
+        this.right=null;
+    }
+}
+public class Main 
+{
+    public static void main(String[] args)
+    {
+        Scanner sc=new Scanner(System.in);
+        int t=sc.nextInt();
+        while(t-->0)
+        {
+            int n=sc.nextInt();
+            int a[]=new int[n];
+            Node root=null;
+            for(int i=0;i<n;i++)
+            {
+                a[i]=sc.nextInt();
+                root=insertNodes(root,a[i]);
+            }
+            BULOT(root);
+            System.out.println();
+        }
+        /* Enter your code here. Read input from STDIN. Print output to STDOUT. Your class should be named Main. */
+    }
+    public static Node insertNodes(Node root,int data)
+    {
+        if(root==null)
+        return new Node(data);
+        else
+        {
+            Node curr;
+            if(data<=root.data)
+            {
+                curr=insertNodes(root.left,data);
+                root.left=curr;
+            }
+            else
+            {
+                curr=insertNodes(root.right,data);
+                root.right=curr;
+            }
+            return root;
+        }
+    }
+    public static void BULOT(Node root)
+    {
+        Queue<Node> q=new LinkedList<>();
+        q.add(root);
+        List<List<Integer>> ans=new ArrayList<>();
+        while(!q.isEmpty())
+        {
+            int size=q.size();
+            List<Integer> subal=new ArrayList<>();
+            while(size-->0)
+            {
+                Node temp=q.remove();
+                subal.add(temp.data);
+                if(temp.left!=null)
+                q.add(temp.left);
+                if(temp.right!=null)
+                q.add(temp.right);
+            }
+            ans.add(subal);
+        }
+        for(int i=ans.size()-1;i>=0;i--)
+        {
+            for(int j=0;j<ans.get(i).size();j++)
+            {
+                System.out.print(ans.get(i).get(j)+" ");
+            }
+            System.out.println();
+        }
+    }
+}
+
+
+ZIG ZAG BOTTOM UP LEVEL ORDER TRAVERSAL OF TREE
+
+import java.io.*;
+import java.util.*;
+class Node
+{
+    int data;
+    Node left=null;
+    Node right=null;
+    Node(int data)
+    {
+        this.data=data;
+        this.left=null;
+        this.right=null;
+    }
+}
+public class Main 
+{
+    public static void main(String[] args) 
+    {
+        Scanner sc=new Scanner(System.in);
+        int t=sc.nextInt();
+        while(t-->0)
+        {
+            int n=sc.nextInt();
+            int a[]=new int[n];
+            Node root=null;
+            for(int i=0;i<n;i++)
+            {
+                a[i]=sc.nextInt();
+                root=insertNodes(root,a[i]);
+            }
+            ZZBULOT(root);
+            System.out.println("\n");
+        }
+        /* Enter your code here. Read input from STDIN. Print output to STDOUT. Your class should be named Main. */
+    }
+    public static Node insertNodes(Node root,int data)
+    {
+        if(root==null)
+        return new Node(data);
+        else
+        {
+            Node curr;
+            if(data<=root.data)
+            {
+                curr=insertNodes(root.left,data);
+                root.left=curr;
+            }
+            else
+            {
+                curr=insertNodes(root.right,data);
+                root.right=curr;
+            }
+            return root;
+        }
+    }
+    public static void ZZBULOT(Node root)
+    {
+        Queue<Node> q=new LinkedList<>();
+        q.add(root);
+        int level=1;
+        LinkedList<LinkedList<Integer>> ans=new LinkedList<>();
+        while(!q.isEmpty())
+        {
+            int size=q.size();
+            LinkedList<Integer> subll=new LinkedList<>();
+            while(size-->0)
+            {
+                Node temp=q.remove();
+                subll.add(temp.data);
+                if(temp.left!=null)
+                q.add(temp.left);
+                if(temp.right!=null)
+                q.add(temp.right);
+            }
+            if(level%2!=0)
+            {
+                Collections.reverse(subll);
+            }
+            level++;
+            ans.add(subll);
+        }
+        for(int i=ans.size()-1;i>=0;i--)
+        {
+            for(int j=0;j<ans.get(i).size();j++)
+            {
+                System.out.print(ans.get(i).get(j)+" ");
+            }
+        }
+    }
+}
+
+
+BALANCED TREE
+
+
+import java.io.*;
+import java.util.*;
+
+class Node
+{
+    int data;
+    Node left;
+    Node right;
+    Node(int data)
+    {
+        this.data=data;
+        this.left=null;
+        this.right=null;
+    }
+}
+public class Main 
+{
+    public static void main(String[] args)
+    {
+        Scanner sc=new Scanner(System.in);
+        int t=sc.nextInt();
+        while(t-->0)
+        {
+            int n=sc.nextInt();
+            int a[]=new int[n];
+            Node root=null;
+            for(int i=0;i<n;i++)
+            {
+                a[i]=sc.nextInt();
+                root=insertNodes(root,a[i]);
+            }
+            if(isBalancedTree(root))
+            System.out.println("Yes");
+            else
+            System.out.println("No");
+        }
+        /* Enter your code here. Read input from STDIN. Print output to STDOUT. Your class should be named Main. */
+    }
+    public static Node insertNodes(Node root,int data)
+    {
+        if(root==null)
+        return new Node(data);
+        else
+        {
+            Node curr;
+            if(data<=root.data)
+            {
+                curr=insertNodes(root.left,data);
+                root.left=curr;
+            }
+            else
+            {
+                curr=insertNodes(root.right,data);
+                root.right=curr;
+            }
+            return root;
+        }
+    }
+    public static boolean isBalancedTree(Node root)
+    {
+        if(height(root)==-1)
+        return false;
+        return true;
+    }
+    public static int height(Node root)
+    {
+        if(root==null)
+        return 0;
+        if(height(root.left)==-1||height(root.right)==-1)
+        return -1;
+        if(Math.abs(height(root.left)-height(root.right))>1)
+        return -1;
+        return Math.max(height(root.left),height(root.right))+1;
+    }
+}
+
+
+CHECK BST
+
+import java.io.*;
+import java.util.*;
+class Node
+{
+    int data;
+    Node left;
+    Node right;
+    Node(int data)
+    {
+        this.data=data;
+        this.left=null;
+        this.right=null;
+    }
+}
+public class Main 
+{
+    public static void main(String[] args) 
+    {
+        Scanner sc=new Scanner(System.in);
+        int t=sc.nextInt();
+        while(t-->0)
+        {
+            int n=sc.nextInt();
+            int a[]=new int[n];
+            for(int i=0;i<n;i++)
+            {
+                a[i]=sc.nextInt();
+            }
+            Node root=constructBST(a);
+            if(checkBST(root,Integer.MIN_VALUE,Integer.MAX_VALUE))
+            System.out.println("True");
+            else
+            System.out.println("False");
+        }
+        /* Enter your code here. Read input from STDIN. Print output to STDOUT. Your class should be named Main. */
+    }
+    public static Node constructBST(int a[])
+    {
+        if(a.length==0)
+        {
+            return null;
+        }
+        Node root=new Node(a[0]);
+        Queue<Node> q=new LinkedList<>();
+        q.add(root);
+        int i=1;
+        while(i<a.length&&!q.isEmpty())
+        {
+            Node temp=q.remove();
+            if(i<a.length)
+            {
+                temp.left=new Node(a[i++]);
+                q.add(temp.left);
+            }
+            if(i<a.length)
+            {
+                temp.right=new Node(a[i++]);
+                q.add(temp.right);
+            }
+        }
+        return root;
+    }
+    public static boolean checkBST(Node root,int min,int max)
+    {
+        if(root==null)return true;
+        if(root.data<min||root.data>max)return false;
+        return (checkBST(root.left,min,root.data)&&checkBST(root.right,root.data,max));
+    }
+}
+
+
+TRIM BST
+
+
+import java.io.*;
+import java.util.*;
+class Node
+{
+    int data;
+    Node left;
+    Node right;
+    Node(int data)
+    {
+        this.data=data;
+        this.left=null;
+        this.right=null;
+    }
+}
+public class Main
+{
+    public static void main(String[] args) 
+    {
+        Scanner sc=new Scanner(System.in);
+        int t=sc.nextInt();
+        while(t-->0)
+        {
+            int n=sc.nextInt(),a=sc.nextInt(),b=sc.nextInt();
+            int arr[]=new int[n];
+            Node root=null;
+            for(int i=0;i<n;i++)
+            {
+                arr[i]=sc.nextInt();
+                root=insert(root,arr[i]);
+            }
+            Node temp=trimBST(root,a,b);
+            preOrder(temp);
+            System.out.println();
+        }
+        /* Enter your code here. Read input from STDIN. Print output to STDOUT. Your class should be named Main. */
+    }
+    public static Node insert(Node root,int data)
+    {
+        if(root==null)
+        {
+            return new Node(data);
+        }
+        if(data<root.data)
+        {
+            root.left=insert(root.left,data);
+        }
+        else
+        {
+            root.right=insert(root.right,data);
+        }
+        return root;
+    }
+    public static Node trimBST(Node root,int a,int b)
+    {
+        if(root==null)
+        {
+            return null;
+        }
+        if(root.data<a)
+        {
+            return trimBST(root.right,a,b);
+        }
+        if(root.data>b)
+        {
+            return trimBST(root.left,a,b);
+        }
+        else
+        {
+            root.left=trimBST(root.left,a,b);
+            root.right=trimBST(root.right,a,b);
+            return root;
+        }
+    }
+    public static void preOrder(Node root)
+    {
+        if(root==null)
+        {
+            return;
+        }
+        System.out.print(root.data+" ");
+        preOrder(root.left);
+        preOrder(root.right);
+    }
+}
+
+
+PREORDER INORDER TO POST ORDER
+
+import java.io.*;
+import java.util.*;
+public class Main {
+    static int pos=0;
+    public static void main(String[] args) 
+    {
+        Scanner sc=new Scanner(System.in);
+        int t=sc.nextInt();
+        while(t-->0)
+        {
+            int n=sc.nextInt();
+            int pre[]=new int[n];
+            int in[]=new int[n];
+            for(int i=0;i<n;i++)
+            {
+                pre[i]=sc.nextInt();
+            }
+            HashMap<Integer,Integer> hm=new HashMap<>();
+            for(int i=0;i<n;i++)
+            {
+                in[i]=sc.nextInt();
+                hm.put(in[i],i);
+            }
+            constructBST(pre,in,0,n-1,hm);
+            System.out.println();
+            pos=0;
+        }
+        /* Enter your code here. Read input from STDIN. Print output to STDOUT. Your class should be named Main. */
+    }
+    public static void constructBST(int pre[],int in[],int l,int h,HashMap<Integer,Integer> hm)
+    {
+        if(l>h)
+        {
+            return;
+        }
+        int idx=hm.get(pre[pos]);
+        pos+=1;
+        constructBST(pre,in,l,idx-1,hm);
+        constructBST(pre,in,idx+1,h,hm);
+        System.out.print(in[idx]+" ");
+    }
+}
+
+
+VERTICAL ORDER TRAVERSAL
+
+
+import java.io.*;
+import java.util.*;
+class Node
+{
+    int data;
+    Node left;
+    Node right;
+    Node(int data)
+    {
+        this.data=data;
+        this.left=null;
+        this.right=null;
+    }
+}
+public class Main 
+{
+    public static void main(String[] args)
+    {
+        Scanner sc=new Scanner(System.in);
+        int t=sc.nextInt();
+        while(t-->0)
+        {
+            int n=sc.nextInt();
+            int a[]=new int[n];
+            Node root=null;
+            for(int i=0;i<n;i++)
+            {
+                a[i]=sc.nextInt();
+                root=insertNodes(root,a[i]);
+            }
+            HashMap<Integer,List<Integer>> hm=new HashMap<>();
+            VOrderTraversal(root,0,hm);
+            List<Integer> vert=new ArrayList<>();
+            for(int num:hm.keySet())
+            {
+                vert.add(num);
+            }
+            Collections.sort(vert);
+            for(int i=0;i<vert.size();i++)
+            {
+                List<Integer> al=hm.get(vert.get(i));
+                Collections.sort(al);
+                al.forEach(ele->System.out.print(ele+" "));
+                System.out.println();
+            }
+            System.out.println();
+        }
+        /* Enter your code here. Read input from STDIN. Print output to STDOUT. Your class should be named Main. */
+    }
+    public static void VOrderTraversal(Node root,int v,HashMap<Integer,List<Integer>> hm)
+    {
+        if(root==null)return;
+        List<Integer> al=hm.get(v);
+        if(al==null)
+        {
+            al=new ArrayList<>();
+            al.add(root.data);
+            hm.put(v,al);
+        }
+        else
+        {
+            al.add(root.data);
+        }
+        hm.put(v,al);
+        VOrderTraversal(root.left,v-1,hm);
+        VOrderTraversal(root.right,v+1,hm);
+    }
+    public static Node insertNodes(Node root,int data)
+    {
+        if(root==null)
+        return new Node(data);
+        if(data<root.data)
+        root.left=insertNodes(root.left,data);
+        else
+        root.right=insertNodes(root.right,data);
+        return root;
+    }
+}
+
+
+LEFT VIEW OF TREE
+
+import java.io.*;
+import java.util.*;
+class Node
+{
+    int data;
+    Node left;
+    Node right;
+    Node(int data)
+    {
+        this.data=data;
+        this.left=null;
+        this.right=null;
+    }
+}
+public class Main 
+{
+    static int maxlevel=0;
+    public static void main(String[] args) 
+    {
+        Scanner sc=new Scanner(System.in);
+        int t=sc.nextInt();
+        while(t-->0)
+        {
+            int n=sc.nextInt();
+            int a[]=new int[n];
+            Node root=null;
+            for(int i=0;i<n;i++)
+            {
+                a[i]=sc.nextInt();
+                root=insertNodes(root,a[i]);
+            }
+            LVT(root,1);
+            System.out.println();
+            maxlevel=0;
+        }
+        /* Enter your code here. Read input from STDIN. Print output to STDOUT. Your class should be named Main. */
+    }
+    public static Node insertNodes(Node root,int data)
+    {
+        if(root==null)return new Node(data);
+        else if(data<root.data)
+        {
+            root.left=insertNodes(root.left,data);
+        }
+        else if(data>root.data)
+        {
+            root.right=insertNodes(root.right,data);
+        }
+        return root;
+    }
+    public static void LVT(Node root,int level)
+    {
+        if(root==null)return;
+        if(level>maxlevel)
+        {
+            System.out.print(root.data+" ");
+            maxlevel=level;
+        }
+        LVT(root.left,level+1);
+        LVT(root.right,level+1);
+    }
+}
+
+
+RIGHT VIEW OF TREE
+
+
+import java.io.*;
+import java.util.*;
+class Node
+{
+    int data;
+    Node left;
+    Node right;
+    Node(int data)
+    {
+        this.data=data;
+        this.left=null;
+        this.right=null;
+    }
+}
+public class Main 
+{
+    static int maxlevel=0;
+    public static void main(String[] args) 
+    {
+        Scanner sc=new Scanner(System.in);
+        int t=sc.nextInt();
+        while(t-->0)
+        {
+            int n=sc.nextInt();
+            Node root=null;
+            for(int i=0;i<n;i++)
+            {
+                root=insertNodes(root,sc.nextInt());
+            }
+            RVT(root,1);
+            System.out.println();
+            maxlevel=0;
+        }
+        /* Enter your code here. Read input from STDIN. Print output to STDOUT. Your class should be named Main. */
+    }
+    public static Node insertNodes(Node root,int data)
+    {
+        if(root==null)return new Node(data);
+        if(data<root.data)
+        {
+            root.left=insertNodes(root.left,data);
+        }
+        if(data>root.data)
+        {
+            root.right=insertNodes(root.right,data);
+        }
+        return root;
+    }
+    public static void RVT(Node root,int level)
+    {
+        if(root==null)return;
+        if(level>maxlevel)
+        {
+            System.out.print(root.data+" ");
+            maxlevel=level;
+        }
+        RVT(root.right,level+1);
+        RVT(root.left,level+1);
+    }
+}
