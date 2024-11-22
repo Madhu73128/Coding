@@ -2,7 +2,7 @@ class Solution {
     public String maximumNumber(String num, int[] change) {
         int n=num.length();
         StringBuilder sb=new StringBuilder();
-        boolean substringstart=false;
+        boolean takingsubstringstarted=false;
         for(int i=0;i<n;i++)
         {
             int idx=num.charAt(i)-'0';
@@ -13,12 +13,12 @@ class Solution {
             else if(idx<change[idx])
             {
                 sb.append(change[idx]);
-                substringstart=true;
+                takingsubstringstarted=true;
             }
             else
             {
                 sb.append(idx);
-                if(substringstart==true)
+                if(takingsubstringstarted==true)
                     break;
             }
         }
