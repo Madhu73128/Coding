@@ -6,12 +6,11 @@ class Solution {
         for(int i=0;i<n;i++)
         {
             int idx=num.charAt(i)-'0';
-            if(!start&&idx<change[idx])
+            if(idx==change[idx])
             {
-                sb.append(change[idx]);
-                start=true;
+                sb.append(idx);
             }
-            else if(start&&idx<=change[idx])
+            else if(idx<change[idx])
             {
                 sb.append(change[idx]);
                 start=true;
