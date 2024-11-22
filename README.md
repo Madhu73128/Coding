@@ -22,5 +22,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1236-n-th-tribonacci-number](https://github.com/Madhu73128/Coding/tree/master/1236-n-th-tribonacci-number) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/Madhu73128/Coding/tree/master/2298-count-integers-with-even-digit-sum) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1236-n-th-tribonacci-number](https://github.com/Madhu73128/Coding/tree/master/1236-n-th-tribonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1236-n-th-tribonacci-number](https://github.com/Madhu73128/Coding/tree/master/1236-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
