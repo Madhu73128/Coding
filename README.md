@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1236-n-th-tribonacci-number](https://github.com/Madhu73128/Coding/tree/master/1236-n-th-tribonacci-number) |
 | [1334-sum-of-numbers-with-units-digit-k](https://github.com/Madhu73128/Coding/tree/master/1334-sum-of-numbers-with-units-digit-k) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/Madhu73128/Coding/tree/master/2298-count-integers-with-even-digit-sum) |
+| [2541-sum-of-number-and-its-reverse](https://github.com/Madhu73128/Coding/tree/master/2541-sum-of-number-and-its-reverse) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -39,4 +40,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1334-sum-of-numbers-with-units-digit-k](https://github.com/Madhu73128/Coding/tree/master/1334-sum-of-numbers-with-units-digit-k) |
+| [2541-sum-of-number-and-its-reverse](https://github.com/Madhu73128/Coding/tree/master/2541-sum-of-number-and-its-reverse) |
 <!---LeetCode Topics End-->
