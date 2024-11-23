@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2077-largest-number-after-mutating-substring](https://github.com/Madhu73128/Coding/tree/master/2077-largest-number-after-mutating-substring) |
 | [2639-separate-the-digits-in-an-array](https://github.com/Madhu73128/Coding/tree/master/2639-separate-the-digits-in-an-array) |
+| [3469-maximum-height-of-a-triangle](https://github.com/Madhu73128/Coding/tree/master/3469-maximum-height-of-a-triangle) |
 ## String
 |  |
 | ------- |
@@ -41,4 +42,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1334-sum-of-numbers-with-units-digit-k](https://github.com/Madhu73128/Coding/tree/master/1334-sum-of-numbers-with-units-digit-k) |
 | [2541-sum-of-number-and-its-reverse](https://github.com/Madhu73128/Coding/tree/master/2541-sum-of-number-and-its-reverse) |
+| [3469-maximum-height-of-a-triangle](https://github.com/Madhu73128/Coding/tree/master/3469-maximum-height-of-a-triangle) |
 <!---LeetCode Topics End-->
