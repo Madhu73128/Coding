@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0523-continuous-subarray-sum](https://github.com/Madhu73128/Coding/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Madhu73128/Coding/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Madhu73128/Coding/tree/master/0724-find-pivot-index) |
 | [2077-largest-number-after-mutating-substring](https://github.com/Madhu73128/Coding/tree/master/2077-largest-number-after-mutating-substring) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0523-continuous-subarray-sum](https://github.com/Madhu73128/Coding/tree/master/0523-continuous-subarray-sum) |
 | [1236-n-th-tribonacci-number](https://github.com/Madhu73128/Coding/tree/master/1236-n-th-tribonacci-number) |
 | [1334-sum-of-numbers-with-units-digit-k](https://github.com/Madhu73128/Coding/tree/master/1334-sum-of-numbers-with-units-digit-k) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/Madhu73128/Coding/tree/master/2298-count-integers-with-even-digit-sum) |
@@ -48,10 +50,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0523-continuous-subarray-sum](https://github.com/Madhu73128/Coding/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Madhu73128/Coding/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Madhu73128/Coding/tree/master/0724-find-pivot-index) |
 ## Hash Table
 |  |
 | ------- |
+| [0523-continuous-subarray-sum](https://github.com/Madhu73128/Coding/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Madhu73128/Coding/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
