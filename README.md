@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Madhu73128/Coding/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Madhu73128/Coding/tree/master/0724-find-pivot-index) |
 | [2077-largest-number-after-mutating-substring](https://github.com/Madhu73128/Coding/tree/master/2077-largest-number-after-mutating-substring) |
 | [2639-separate-the-digits-in-an-array](https://github.com/Madhu73128/Coding/tree/master/2639-separate-the-digits-in-an-array) |
@@ -47,5 +48,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Madhu73128/Coding/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Madhu73128/Coding/tree/master/0724-find-pivot-index) |
+## Hash Table
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Madhu73128/Coding/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
