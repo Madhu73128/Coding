@@ -7,7 +7,7 @@ class Solution {
             ts.add(num);
         }
         ArrayList<Integer> al=new ArrayList<>(ts);
-        //Collections.sort(al);//ts is already sorted
+        Collections.sort(al);
         int ans=Integer.MAX_VALUE;
         for(int i=0;i<al.size();i++)
         {
