@@ -14,11 +14,11 @@ class Solution {
             int min=al.get(i);
             int max=n-1+min;
             int index=Collections.binarySearch(al,max);
-            if(index<0)//may be index is -5 or -4 or anything for suppose if we have to insert at 4th position (0 based index) then func return (-4-1)=-5 then it turn into 4 using below
+            if(index<0)//if max not present and may be index is -5 or -4 or anything for suppose if we have to insert at 4th position (0 based index) then func return (-4-1)=-5 then it turn into 4 using below
             {
                 index=-(index+1);
             }
-            else
+            else//if max is present
             {
                 index+=1;
             }
