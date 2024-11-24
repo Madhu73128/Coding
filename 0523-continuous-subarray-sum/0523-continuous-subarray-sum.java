@@ -4,7 +4,7 @@ class Solution {
         if(n<=1)
         return false;
         HashMap<Integer,Integer> hm=new HashMap<>();
-        hm.put(0,-1);//to handle subarrys starting from index '0';
+        hm.put(0,0);//to handle subarrys starting from index '0';
         int prefixsum=0;
         for(int i=0;i<n;i++)
         {
@@ -12,11 +12,11 @@ class Solution {
             int modval=prefixsum%k;
             if(hm.containsKey(modval))
             {
-                if(i-hm.get(modval)>=2)
+                if(i+1-hm.get(modval)>=2)
                 return true;
             }
             else
-            hm.put(modval,i);
+            hm.put(modval,i+1);//storing only first occurence;
         }
         return false;
     }
