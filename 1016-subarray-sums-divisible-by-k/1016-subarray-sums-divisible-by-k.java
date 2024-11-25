@@ -13,10 +13,11 @@ class Solution {
             {
                 rem+=k;
             }
-            if(hm.containsKey(rem)&&hm.get(rem)!=null)
+            /*if(hm.containsKey(rem)&&hm.get(rem)!=null)
             {
                 cnt+=hm.get(rem);
-            }
+            }*/
+            cnt+=hm.getOrDefault(rem,0);
             hm.put(rem,hm.getOrDefault(rem,0)+1);
         }
         return cnt;
