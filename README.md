@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1016-subarray-sums-divisible-by-k](https://github.com/Madhu73128/Coding/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/Madhu73128/Coding/tree/master/1046-max-consecutive-ones-iii) |
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/Madhu73128/Coding/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
+| [1694-make-sum-divisible-by-p](https://github.com/Madhu73128/Coding/tree/master/1694-make-sum-divisible-by-p) |
 | [2077-largest-number-after-mutating-substring](https://github.com/Madhu73128/Coding/tree/master/2077-largest-number-after-mutating-substring) |
 | [2102-find-the-middle-index-in-array](https://github.com/Madhu73128/Coding/tree/master/2102-find-the-middle-index-in-array) |
 | [2119-minimum-number-of-operations-to-make-array-continuous](https://github.com/Madhu73128/Coding/tree/master/2119-minimum-number-of-operations-to-make-array-continuous) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/Madhu73128/Coding/tree/master/0724-find-pivot-index) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Madhu73128/Coding/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/Madhu73128/Coding/tree/master/1046-max-consecutive-ones-iii) |
+| [1694-make-sum-divisible-by-p](https://github.com/Madhu73128/Coding/tree/master/1694-make-sum-divisible-by-p) |
 | [2102-find-the-middle-index-in-array](https://github.com/Madhu73128/Coding/tree/master/2102-find-the-middle-index-in-array) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/Madhu73128/Coding/tree/master/2134-maximize-the-confusion-of-an-exam) |
 ## Hash Table
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/Madhu73128/Coding/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Madhu73128/Coding/tree/master/0560-subarray-sum-equals-k) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Madhu73128/Coding/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1694-make-sum-divisible-by-p](https://github.com/Madhu73128/Coding/tree/master/1694-make-sum-divisible-by-p) |
 | [2119-minimum-number-of-operations-to-make-array-continuous](https://github.com/Madhu73128/Coding/tree/master/2119-minimum-number-of-operations-to-make-array-continuous) |
 ## Binary Search
 |  |
