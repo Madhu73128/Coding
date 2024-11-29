@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2077-largest-number-after-mutating-substring](https://github.com/Madhu73128/Coding/tree/master/2077-largest-number-after-mutating-substring) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/Madhu73128/Coding/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2304-cells-in-a-range-on-an-excel-sheet](https://github.com/Madhu73128/Coding/tree/master/2304-cells-in-a-range-on-an-excel-sheet) |
+| [2470-removing-stars-from-a-string](https://github.com/Madhu73128/Coding/tree/master/2470-removing-stars-from-a-string) |
 | [2713-find-the-divisibility-array-of-a-string](https://github.com/Madhu73128/Coding/tree/master/2713-find-the-divisibility-array-of-a-string) |
 ## Greedy
 |  |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2298-count-integers-with-even-digit-sum](https://github.com/Madhu73128/Coding/tree/master/2298-count-integers-with-even-digit-sum) |
+| [2470-removing-stars-from-a-string](https://github.com/Madhu73128/Coding/tree/master/2470-removing-stars-from-a-string) |
 | [2639-separate-the-digits-in-an-array](https://github.com/Madhu73128/Coding/tree/master/2639-separate-the-digits-in-an-array) |
 | [2698-find-the-array-concatenation-value](https://github.com/Madhu73128/Coding/tree/master/2698-find-the-array-concatenation-value) |
 | [2834-relocate-marbles](https://github.com/Madhu73128/Coding/tree/master/2834-relocate-marbles) |
@@ -117,4 +119,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Madhu73128/Coding/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Madhu73128/Coding/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
+| [2470-removing-stars-from-a-string](https://github.com/Madhu73128/Coding/tree/master/2470-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->
