@@ -3,7 +3,7 @@ class Solution {
         Stack<Character> stk=new Stack<>();
         for(char ch:s.toCharArray())
         {
-            if(stk.isEmpty())//stk.size()==0;
+            if(stk.isEmpty()||stk.peek()!=ch)//stk.size()==0;
             {
                 stk.push(ch);
             }
@@ -11,10 +11,10 @@ class Solution {
             {
                 stk.pop();
             }
-            else//topmost of stack(previous character)!=current character
+            /*else//topmost of stack(previous character)!=current character
             {
                 stk.push(ch);
-            }
+            }*/
         }
         StringBuilder sb=new StringBuilder();//for appending remaining character of stack to sb
         for(char ch:stk)
