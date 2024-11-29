@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/Madhu73128/Coding/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Madhu73128/Coding/tree/master/0171-excel-sheet-column-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/Madhu73128/Coding/tree/master/0424-longest-repeating-character-replacement) |
+| [0874-backspace-string-compare](https://github.com/Madhu73128/Coding/tree/master/0874-backspace-string-compare) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Madhu73128/Coding/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Madhu73128/Coding/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [2077-largest-number-after-mutating-substring](https://github.com/Madhu73128/Coding/tree/master/2077-largest-number-after-mutating-substring) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0874-backspace-string-compare](https://github.com/Madhu73128/Coding/tree/master/0874-backspace-string-compare) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/Madhu73128/Coding/tree/master/2298-count-integers-with-even-digit-sum) |
 | [2470-removing-stars-from-a-string](https://github.com/Madhu73128/Coding/tree/master/2470-removing-stars-from-a-string) |
 | [2639-separate-the-digits-in-an-array](https://github.com/Madhu73128/Coding/tree/master/2639-separate-the-digits-in-an-array) |
@@ -113,10 +115,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0874-backspace-string-compare](https://github.com/Madhu73128/Coding/tree/master/0874-backspace-string-compare) |
 | [2698-find-the-array-concatenation-value](https://github.com/Madhu73128/Coding/tree/master/2698-find-the-array-concatenation-value) |
 ## Stack
 |  |
 | ------- |
+| [0874-backspace-string-compare](https://github.com/Madhu73128/Coding/tree/master/0874-backspace-string-compare) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Madhu73128/Coding/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Madhu73128/Coding/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [2470-removing-stars-from-a-string](https://github.com/Madhu73128/Coding/tree/master/2470-removing-stars-from-a-string) |
