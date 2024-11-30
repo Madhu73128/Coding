@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2698-find-the-array-concatenation-value](https://github.com/Madhu73128/Coding/tree/master/2698-find-the-array-concatenation-value) |
 | [2713-find-the-divisibility-array-of-a-string](https://github.com/Madhu73128/Coding/tree/master/2713-find-the-divisibility-array-of-a-string) |
 | [2834-relocate-marbles](https://github.com/Madhu73128/Coding/tree/master/2834-relocate-marbles) |
+| [3430-count-days-without-meetings](https://github.com/Madhu73128/Coding/tree/master/3430-count-days-without-meetings) |
 | [3469-maximum-height-of-a-triangle](https://github.com/Madhu73128/Coding/tree/master/3469-maximum-height-of-a-triangle) |
 ## String
 |  |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0056-merge-intervals](https://github.com/Madhu73128/Coding/tree/master/0056-merge-intervals) |
 | [2834-relocate-marbles](https://github.com/Madhu73128/Coding/tree/master/2834-relocate-marbles) |
+| [3430-count-days-without-meetings](https://github.com/Madhu73128/Coding/tree/master/3430-count-days-without-meetings) |
 ## Two Pointers
 |  |
 | ------- |
