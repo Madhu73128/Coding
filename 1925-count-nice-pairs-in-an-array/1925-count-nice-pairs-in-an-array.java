@@ -3,12 +3,12 @@ class Solution {
         int n=nums.length;
         long count=0;
         int m=1000000007;
-        HashMap<Integer,Long> hm=new HashMap<>();
+        HashMap<Integer,Integer> hm=new HashMap<>();
         for(int i=0;i<n;i++)
         {
             int val=nums[i]-rev(nums[i]);
-            count=(count+hm.getOrDefault(val,0L))%m;
-            hm.put(val,hm.getOrDefault(val,0L)+1);
+            count=(count+hm.getOrDefault(val,0))%m;
+            hm.put(val,hm.getOrDefault(val,0)+1);
         }
         return (int)count%m;
     }
