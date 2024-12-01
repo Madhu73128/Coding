@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/Madhu73128/Coding/tree/master/0039-combination-sum) |
 | [0056-merge-intervals](https://github.com/Madhu73128/Coding/tree/master/0056-merge-intervals) |
 | [0377-combination-sum-iv](https://github.com/Madhu73128/Coding/tree/master/0377-combination-sum-iv) |
 | [0523-continuous-subarray-sum](https://github.com/Madhu73128/Coding/tree/master/0523-continuous-subarray-sum) |
@@ -153,4 +154,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/Madhu73128/Coding/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Madhu73128/Coding/tree/master/2307-replace-non-coprime-numbers-in-array) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/Madhu73128/Coding/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
