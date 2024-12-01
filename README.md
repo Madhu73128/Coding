@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2102-find-the-middle-index-in-array](https://github.com/Madhu73128/Coding/tree/master/2102-find-the-middle-index-in-array) |
 | [2119-minimum-number-of-operations-to-make-array-continuous](https://github.com/Madhu73128/Coding/tree/master/2119-minimum-number-of-operations-to-make-array-continuous) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/Madhu73128/Coding/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/Madhu73128/Coding/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2448-count-number-of-bad-pairs](https://github.com/Madhu73128/Coding/tree/master/2448-count-number-of-bad-pairs) |
 | [2639-separate-the-digits-in-an-array](https://github.com/Madhu73128/Coding/tree/master/2639-separate-the-digits-in-an-array) |
 | [2698-find-the-array-concatenation-value](https://github.com/Madhu73128/Coding/tree/master/2698-find-the-array-concatenation-value) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1925-count-nice-pairs-in-an-array](https://github.com/Madhu73128/Coding/tree/master/1925-count-nice-pairs-in-an-array) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/Madhu73128/Coding/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/Madhu73128/Coding/tree/master/2298-count-integers-with-even-digit-sum) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/Madhu73128/Coding/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2448-count-number-of-bad-pairs](https://github.com/Madhu73128/Coding/tree/master/2448-count-number-of-bad-pairs) |
 | [2541-sum-of-number-and-its-reverse](https://github.com/Madhu73128/Coding/tree/master/2541-sum-of-number-and-its-reverse) |
 | [2713-find-the-divisibility-array-of-a-string](https://github.com/Madhu73128/Coding/tree/master/2713-find-the-divisibility-array-of-a-string) |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0874-backspace-string-compare](https://github.com/Madhu73128/Coding/tree/master/0874-backspace-string-compare) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Madhu73128/Coding/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Madhu73128/Coding/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/Madhu73128/Coding/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2470-removing-stars-from-a-string](https://github.com/Madhu73128/Coding/tree/master/2470-removing-stars-from-a-string) |
 ## Counting
 |  |
@@ -147,4 +150,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/Madhu73128/Coding/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/Madhu73128/Coding/tree/master/2307-replace-non-coprime-numbers-in-array) |
 <!---LeetCode Topics End-->
