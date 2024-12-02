@@ -179,4 +179,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Madhu73128/Coding/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Madhu73128/Coding/tree/master/0040-combination-sum-ii) |
 | [0216-combination-sum-iii](https://github.com/Madhu73128/Coding/tree/master/0216-combination-sum-iii) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/Madhu73128/Coding/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
