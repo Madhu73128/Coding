@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Madhu73128/Coding/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Madhu73128/Coding/tree/master/0040-combination-sum-ii) |
 | [0056-merge-intervals](https://github.com/Madhu73128/Coding/tree/master/0056-merge-intervals) |
+| [0216-combination-sum-iii](https://github.com/Madhu73128/Coding/tree/master/0216-combination-sum-iii) |
 | [0377-combination-sum-iv](https://github.com/Madhu73128/Coding/tree/master/0377-combination-sum-iv) |
 | [0523-continuous-subarray-sum](https://github.com/Madhu73128/Coding/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Madhu73128/Coding/tree/master/0560-subarray-sum-equals-k) |
@@ -160,4 +161,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/Madhu73128/Coding/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Madhu73128/Coding/tree/master/0040-combination-sum-ii) |
+| [0216-combination-sum-iii](https://github.com/Madhu73128/Coding/tree/master/0216-combination-sum-iii) |
 <!---LeetCode Topics End-->
