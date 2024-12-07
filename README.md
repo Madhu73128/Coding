@@ -198,4 +198,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1801-average-time-of-process-per-machine](https://github.com/Madhu73128/Coding/tree/master/1801-average-time-of-process-per-machine) |
 | [1827-invalid-tweets](https://github.com/Madhu73128/Coding/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/Madhu73128/Coding/tree/master/1908-recyclable-and-low-fat-products) |
+| [1948-rearrange-products-table](https://github.com/Madhu73128/Coding/tree/master/1948-rearrange-products-table) |
 <!---LeetCode Topics End-->
