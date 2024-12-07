@@ -196,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Madhu73128/Coding/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1734-bank-account-summary-ii](https://github.com/Madhu73128/Coding/tree/master/1734-bank-account-summary-ii) |
 | [1801-average-time-of-process-per-machine](https://github.com/Madhu73128/Coding/tree/master/1801-average-time-of-process-per-machine) |
+| [1811-fix-names-in-a-table](https://github.com/Madhu73128/Coding/tree/master/1811-fix-names-in-a-table) |
 | [1827-invalid-tweets](https://github.com/Madhu73128/Coding/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/Madhu73128/Coding/tree/master/1908-recyclable-and-low-fat-products) |
 | [1948-rearrange-products-table](https://github.com/Madhu73128/Coding/tree/master/1948-rearrange-products-table) |
