@@ -208,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1415-students-and-examinations](https://github.com/Madhu73128/Coding/tree/master/1415-students-and-examinations) |
 | [1462-list-the-products-ordered-in-a-period](https://github.com/Madhu73128/Coding/tree/master/1462-list-the-products-ordered-in-a-period) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/Madhu73128/Coding/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
+| [1523-capital-gainloss](https://github.com/Madhu73128/Coding/tree/master/1523-capital-gainloss) |
 | [1541-top-travellers](https://github.com/Madhu73128/Coding/tree/master/1541-top-travellers) |
 | [1625-group-sold-products-by-the-date](https://github.com/Madhu73128/Coding/tree/master/1625-group-sold-products-by-the-date) |
 | [1664-find-users-with-valid-e-mails](https://github.com/Madhu73128/Coding/tree/master/1664-find-users-with-valid-e-mails) |
