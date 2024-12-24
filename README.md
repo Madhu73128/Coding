@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2698-find-the-array-concatenation-value](https://github.com/Madhu73128/Coding/tree/master/2698-find-the-array-concatenation-value) |
 | [2713-find-the-divisibility-array-of-a-string](https://github.com/Madhu73128/Coding/tree/master/2713-find-the-divisibility-array-of-a-string) |
 | [2834-relocate-marbles](https://github.com/Madhu73128/Coding/tree/master/2834-relocate-marbles) |
+| [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/Madhu73128/Coding/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
 | [3430-count-days-without-meetings](https://github.com/Madhu73128/Coding/tree/master/3430-count-days-without-meetings) |
 | [3469-maximum-height-of-a-triangle](https://github.com/Madhu73128/Coding/tree/master/3469-maximum-height-of-a-triangle) |
 ## String
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/Madhu73128/Coding/tree/master/0338-counting-bits) |
 | [0401-binary-watch](https://github.com/Madhu73128/Coding/tree/master/0401-binary-watch) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Madhu73128/Coding/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+| [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/Madhu73128/Coding/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
 ## Divide and Conquer
 |  |
 | ------- |
