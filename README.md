@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2834-relocate-marbles](https://github.com/Madhu73128/Coding/tree/master/2834-relocate-marbles) |
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/Madhu73128/Coding/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
 | [3183-find-the-k-or-of-an-array](https://github.com/Madhu73128/Coding/tree/master/3183-find-the-k-or-of-an-array) |
+| [3413-find-the-first-player-to-win-k-games-in-a-row](https://github.com/Madhu73128/Coding/tree/master/3413-find-the-first-player-to-win-k-games-in-a-row) |
 | [3430-count-days-without-meetings](https://github.com/Madhu73128/Coding/tree/master/3430-count-days-without-meetings) |
 | [3469-maximum-height-of-a-triangle](https://github.com/Madhu73128/Coding/tree/master/3469-maximum-height-of-a-triangle) |
 ## String
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2639-separate-the-digits-in-an-array](https://github.com/Madhu73128/Coding/tree/master/2639-separate-the-digits-in-an-array) |
 | [2698-find-the-array-concatenation-value](https://github.com/Madhu73128/Coding/tree/master/2698-find-the-array-concatenation-value) |
 | [2834-relocate-marbles](https://github.com/Madhu73128/Coding/tree/master/2834-relocate-marbles) |
+| [3413-find-the-first-player-to-win-k-games-in-a-row](https://github.com/Madhu73128/Coding/tree/master/3413-find-the-first-player-to-win-k-games-in-a-row) |
 ## Math
 |  |
 | ------- |
