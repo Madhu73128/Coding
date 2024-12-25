@@ -54,12 +54,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2304-cells-in-a-range-on-an-excel-sheet](https://github.com/Madhu73128/Coding/tree/master/2304-cells-in-a-range-on-an-excel-sheet) |
 | [2470-removing-stars-from-a-string](https://github.com/Madhu73128/Coding/tree/master/2470-removing-stars-from-a-string) |
 | [2713-find-the-divisibility-array-of-a-string](https://github.com/Madhu73128/Coding/tree/master/2713-find-the-divisibility-array-of-a-string) |
+| [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/Madhu73128/Coding/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 ## Greedy
 |  |
 | ------- |
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/Madhu73128/Coding/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 | [1334-sum-of-numbers-with-units-digit-k](https://github.com/Madhu73128/Coding/tree/master/1334-sum-of-numbers-with-units-digit-k) |
 | [2077-largest-number-after-mutating-substring](https://github.com/Madhu73128/Coding/tree/master/2077-largest-number-after-mutating-substring) |
+| [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/Madhu73128/Coding/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 ## Simulation
 |  |
 | ------- |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2448-count-number-of-bad-pairs](https://github.com/Madhu73128/Coding/tree/master/2448-count-number-of-bad-pairs) |
 | [2541-sum-of-number-and-its-reverse](https://github.com/Madhu73128/Coding/tree/master/2541-sum-of-number-and-its-reverse) |
 | [2713-find-the-divisibility-array-of-a-string](https://github.com/Madhu73128/Coding/tree/master/2713-find-the-divisibility-array-of-a-string) |
+| [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/Madhu73128/Coding/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 ## Dynamic Programming
 |  |
 | ------- |
