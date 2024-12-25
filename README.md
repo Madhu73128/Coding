@@ -265,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/Madhu73128/Coding/tree/master/0191-number-of-1-bits) |
 | [0338-counting-bits](https://github.com/Madhu73128/Coding/tree/master/0338-counting-bits) |
 | [0401-binary-watch](https://github.com/Madhu73128/Coding/tree/master/0401-binary-watch) |
+| [0461-hamming-distance](https://github.com/Madhu73128/Coding/tree/master/0461-hamming-distance) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Madhu73128/Coding/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1940-maximum-xor-for-each-query](https://github.com/Madhu73128/Coding/tree/master/1940-maximum-xor-for-each-query) |
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/Madhu73128/Coding/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
