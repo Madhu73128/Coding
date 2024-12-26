@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1016-subarray-sums-divisible-by-k](https://github.com/Madhu73128/Coding/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/Madhu73128/Coding/tree/master/1046-max-consecutive-ones-iii) |
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/Madhu73128/Coding/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
+| [1071-binary-prefix-divisible-by-5](https://github.com/Madhu73128/Coding/tree/master/1071-binary-prefix-divisible-by-5) |
 | [1694-make-sum-divisible-by-p](https://github.com/Madhu73128/Coding/tree/master/1694-make-sum-divisible-by-p) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/Madhu73128/Coding/tree/master/1925-count-nice-pairs-in-an-array) |
 | [1940-maximum-xor-for-each-query](https://github.com/Madhu73128/Coding/tree/master/1940-maximum-xor-for-each-query) |
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/Madhu73128/Coding/tree/master/0338-counting-bits) |
 | [0401-binary-watch](https://github.com/Madhu73128/Coding/tree/master/0401-binary-watch) |
 | [0461-hamming-distance](https://github.com/Madhu73128/Coding/tree/master/0461-hamming-distance) |
+| [1071-binary-prefix-divisible-by-5](https://github.com/Madhu73128/Coding/tree/master/1071-binary-prefix-divisible-by-5) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Madhu73128/Coding/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1940-maximum-xor-for-each-query](https://github.com/Madhu73128/Coding/tree/master/1940-maximum-xor-for-each-query) |
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/Madhu73128/Coding/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
