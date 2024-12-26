@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2448-count-number-of-bad-pairs](https://github.com/Madhu73128/Coding/tree/master/2448-count-number-of-bad-pairs) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Madhu73128/Coding/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2639-separate-the-digits-in-an-array](https://github.com/Madhu73128/Coding/tree/master/2639-separate-the-digits-in-an-array) |
+| [2694-find-the-maximum-divisibility-score](https://github.com/Madhu73128/Coding/tree/master/2694-find-the-maximum-divisibility-score) |
 | [2698-find-the-array-concatenation-value](https://github.com/Madhu73128/Coding/tree/master/2698-find-the-array-concatenation-value) |
 | [2713-find-the-divisibility-array-of-a-string](https://github.com/Madhu73128/Coding/tree/master/2713-find-the-divisibility-array-of-a-string) |
 | [2834-relocate-marbles](https://github.com/Madhu73128/Coding/tree/master/2834-relocate-marbles) |
