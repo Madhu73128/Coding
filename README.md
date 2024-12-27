@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Madhu73128/Coding/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/Madhu73128/Coding/tree/master/0621-task-scheduler) |
 | [0724-find-pivot-index](https://github.com/Madhu73128/Coding/tree/master/0724-find-pivot-index) |
+| [0748-largest-number-at-least-twice-of-others](https://github.com/Madhu73128/Coding/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Madhu73128/Coding/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/Madhu73128/Coding/tree/master/1046-max-consecutive-ones-iii) |
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/Madhu73128/Coding/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Madhu73128/Coding/tree/master/0056-merge-intervals) |
 | [0242-valid-anagram](https://github.com/Madhu73128/Coding/tree/master/0242-valid-anagram) |
 | [0621-task-scheduler](https://github.com/Madhu73128/Coding/tree/master/0621-task-scheduler) |
+| [0748-largest-number-at-least-twice-of-others](https://github.com/Madhu73128/Coding/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0778-reorganize-string](https://github.com/Madhu73128/Coding/tree/master/0778-reorganize-string) |
 | [2422-query-kth-smallest-trimmed-number](https://github.com/Madhu73128/Coding/tree/master/2422-query-kth-smallest-trimmed-number) |
 | [2834-relocate-marbles](https://github.com/Madhu73128/Coding/tree/master/2834-relocate-marbles) |
