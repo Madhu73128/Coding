@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0168-excel-sheet-column-title](https://github.com/Madhu73128/Coding/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Madhu73128/Coding/tree/master/0171-excel-sheet-column-number) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/Madhu73128/Coding/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0477-total-hamming-distance](https://github.com/Madhu73128/Coding/tree/master/0477-total-hamming-distance) |
 | [0523-continuous-subarray-sum](https://github.com/Madhu73128/Coding/tree/master/0523-continuous-subarray-sum) |
 | [1236-n-th-tribonacci-number](https://github.com/Madhu73128/Coding/tree/master/1236-n-th-tribonacci-number) |
@@ -288,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/Madhu73128/Coding/tree/master/0191-number-of-1-bits) |
 | [0338-counting-bits](https://github.com/Madhu73128/Coding/tree/master/0338-counting-bits) |
 | [0401-binary-watch](https://github.com/Madhu73128/Coding/tree/master/0401-binary-watch) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/Madhu73128/Coding/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0461-hamming-distance](https://github.com/Madhu73128/Coding/tree/master/0461-hamming-distance) |
 | [0477-total-hamming-distance](https://github.com/Madhu73128/Coding/tree/master/0477-total-hamming-distance) |
 | [1071-binary-prefix-divisible-by-5](https://github.com/Madhu73128/Coding/tree/master/1071-binary-prefix-divisible-by-5) |
