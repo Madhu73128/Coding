@@ -297,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Madhu73128/Coding/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0461-hamming-distance](https://github.com/Madhu73128/Coding/tree/master/0461-hamming-distance) |
 | [0477-total-hamming-distance](https://github.com/Madhu73128/Coding/tree/master/0477-total-hamming-distance) |
+| [1054-complement-of-base-10-integer](https://github.com/Madhu73128/Coding/tree/master/1054-complement-of-base-10-integer) |
 | [1071-binary-prefix-divisible-by-5](https://github.com/Madhu73128/Coding/tree/master/1071-binary-prefix-divisible-by-5) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Madhu73128/Coding/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1940-maximum-xor-for-each-query](https://github.com/Madhu73128/Coding/tree/master/1940-maximum-xor-for-each-query) |
