@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2102-find-the-middle-index-in-array](https://github.com/Madhu73128/Coding/tree/master/2102-find-the-middle-index-in-array) |
 | [2119-minimum-number-of-operations-to-make-array-continuous](https://github.com/Madhu73128/Coding/tree/master/2119-minimum-number-of-operations-to-make-array-continuous) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/Madhu73128/Coding/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
+| [2199-two-furthest-houses-with-different-colors](https://github.com/Madhu73128/Coding/tree/master/2199-two-furthest-houses-with-different-colors) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Madhu73128/Coding/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Madhu73128/Coding/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2422-query-kth-smallest-trimmed-number](https://github.com/Madhu73128/Coding/tree/master/2422-query-kth-smallest-trimmed-number) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/Madhu73128/Coding/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 | [1334-sum-of-numbers-with-units-digit-k](https://github.com/Madhu73128/Coding/tree/master/1334-sum-of-numbers-with-units-digit-k) |
 | [2077-largest-number-after-mutating-substring](https://github.com/Madhu73128/Coding/tree/master/2077-largest-number-after-mutating-substring) |
+| [2199-two-furthest-houses-with-different-colors](https://github.com/Madhu73128/Coding/tree/master/2199-two-furthest-houses-with-different-colors) |
 | [2530-minimize-maximum-of-array](https://github.com/Madhu73128/Coding/tree/master/2530-minimize-maximum-of-array) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/Madhu73128/Coding/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 ## Simulation
