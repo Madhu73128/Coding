@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/Madhu73128/Coding/tree/master/0724-find-pivot-index) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Madhu73128/Coding/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0837-most-common-word](https://github.com/Madhu73128/Coding/tree/master/0837-most-common-word) |
+| [0926-find-and-replace-pattern](https://github.com/Madhu73128/Coding/tree/master/0926-find-and-replace-pattern) |
 | [0978-valid-mountain-array](https://github.com/Madhu73128/Coding/tree/master/0978-valid-mountain-array) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Madhu73128/Coding/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/Madhu73128/Coding/tree/master/1046-max-consecutive-ones-iii) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-reorganize-string](https://github.com/Madhu73128/Coding/tree/master/0778-reorganize-string) |
 | [0837-most-common-word](https://github.com/Madhu73128/Coding/tree/master/0837-most-common-word) |
 | [0874-backspace-string-compare](https://github.com/Madhu73128/Coding/tree/master/0874-backspace-string-compare) |
+| [0926-find-and-replace-pattern](https://github.com/Madhu73128/Coding/tree/master/0926-find-and-replace-pattern) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Madhu73128/Coding/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Madhu73128/Coding/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [2077-largest-number-after-mutating-substring](https://github.com/Madhu73128/Coding/tree/master/2077-largest-number-after-mutating-substring) |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/Madhu73128/Coding/tree/master/0621-task-scheduler) |
 | [0778-reorganize-string](https://github.com/Madhu73128/Coding/tree/master/0778-reorganize-string) |
 | [0837-most-common-word](https://github.com/Madhu73128/Coding/tree/master/0837-most-common-word) |
+| [0926-find-and-replace-pattern](https://github.com/Madhu73128/Coding/tree/master/0926-find-and-replace-pattern) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Madhu73128/Coding/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1694-make-sum-divisible-by-p](https://github.com/Madhu73128/Coding/tree/master/1694-make-sum-divisible-by-p) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/Madhu73128/Coding/tree/master/1925-count-nice-pairs-in-an-array) |
