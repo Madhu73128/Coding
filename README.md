@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Madhu73128/Coding/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Madhu73128/Coding/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/Madhu73128/Coding/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/Madhu73128/Coding/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Madhu73128/Coding/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Madhu73128/Coding/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/Madhu73128/Coding/tree/master/0459-repeated-substring-pattern) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Madhu73128/Coding/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Madhu73128/Coding/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/Madhu73128/Coding/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/Madhu73128/Coding/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Madhu73128/Coding/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Madhu73128/Coding/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0523-continuous-subarray-sum](https://github.com/Madhu73128/Coding/tree/master/0523-continuous-subarray-sum) |
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/Madhu73128/Coding/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/Madhu73128/Coding/tree/master/0387-first-unique-character-in-a-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/Madhu73128/Coding/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/Madhu73128/Coding/tree/master/0621-task-scheduler) |
 | [0778-reorganize-string](https://github.com/Madhu73128/Coding/tree/master/0778-reorganize-string) |
@@ -362,4 +365,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Madhu73128/Coding/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/Madhu73128/Coding/tree/master/0459-repeated-substring-pattern) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Madhu73128/Coding/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
