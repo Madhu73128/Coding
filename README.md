@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/Madhu73128/Coding/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/Madhu73128/Coding/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Madhu73128/Coding/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/Madhu73128/Coding/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/Madhu73128/Coding/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Madhu73128/Coding/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/Madhu73128/Coding/tree/master/0459-repeated-substring-pattern) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/Madhu73128/Coding/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/Madhu73128/Coding/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Madhu73128/Coding/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/Madhu73128/Coding/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/Madhu73128/Coding/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Madhu73128/Coding/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0523-continuous-subarray-sum](https://github.com/Madhu73128/Coding/tree/master/0523-continuous-subarray-sum) |
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Madhu73128/Coding/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Madhu73128/Coding/tree/master/0056-merge-intervals) |
 | [0242-valid-anagram](https://github.com/Madhu73128/Coding/tree/master/0242-valid-anagram) |
+| [0389-find-the-difference](https://github.com/Madhu73128/Coding/tree/master/0389-find-the-difference) |
 | [0594-longest-harmonious-subsequence](https://github.com/Madhu73128/Coding/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/Madhu73128/Coding/tree/master/0621-task-scheduler) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Madhu73128/Coding/tree/master/0748-largest-number-at-least-twice-of-others) |
@@ -327,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/Madhu73128/Coding/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Madhu73128/Coding/tree/master/0191-number-of-1-bits) |
 | [0338-counting-bits](https://github.com/Madhu73128/Coding/tree/master/0338-counting-bits) |
+| [0389-find-the-difference](https://github.com/Madhu73128/Coding/tree/master/0389-find-the-difference) |
 | [0401-binary-watch](https://github.com/Madhu73128/Coding/tree/master/0401-binary-watch) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Madhu73128/Coding/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0461-hamming-distance](https://github.com/Madhu73128/Coding/tree/master/0461-hamming-distance) |
