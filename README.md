@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/Madhu73128/Coding/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/Madhu73128/Coding/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Madhu73128/Coding/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/Madhu73128/Coding/tree/master/0290-word-pattern) |
 | [0424-longest-repeating-character-replacement](https://github.com/Madhu73128/Coding/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Madhu73128/Coding/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/Madhu73128/Coding/tree/master/0459-repeated-substring-pattern) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/Madhu73128/Coding/tree/master/0076-minimum-window-substring) |
 | [0205-isomorphic-strings](https://github.com/Madhu73128/Coding/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Madhu73128/Coding/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/Madhu73128/Coding/tree/master/0290-word-pattern) |
 | [0424-longest-repeating-character-replacement](https://github.com/Madhu73128/Coding/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Madhu73128/Coding/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0523-continuous-subarray-sum](https://github.com/Madhu73128/Coding/tree/master/0523-continuous-subarray-sum) |
