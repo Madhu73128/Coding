@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0477-total-hamming-distance](https://github.com/Madhu73128/Coding/tree/master/0477-total-hamming-distance) |
 | [0523-continuous-subarray-sum](https://github.com/Madhu73128/Coding/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Madhu73128/Coding/tree/master/0560-subarray-sum-equals-k) |
+| [0594-longest-harmonious-subsequence](https://github.com/Madhu73128/Coding/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/Madhu73128/Coding/tree/master/0621-task-scheduler) |
 | [0724-find-pivot-index](https://github.com/Madhu73128/Coding/tree/master/0724-find-pivot-index) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Madhu73128/Coding/tree/master/0748-largest-number-at-least-twice-of-others) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/Madhu73128/Coding/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Madhu73128/Coding/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Madhu73128/Coding/tree/master/0567-permutation-in-string) |
+| [0594-longest-harmonious-subsequence](https://github.com/Madhu73128/Coding/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/Madhu73128/Coding/tree/master/0621-task-scheduler) |
 | [0778-reorganize-string](https://github.com/Madhu73128/Coding/tree/master/0778-reorganize-string) |
 | [0837-most-common-word](https://github.com/Madhu73128/Coding/tree/master/0837-most-common-word) |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Madhu73128/Coding/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Madhu73128/Coding/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Madhu73128/Coding/tree/master/0567-permutation-in-string) |
+| [0594-longest-harmonious-subsequence](https://github.com/Madhu73128/Coding/tree/master/0594-longest-harmonious-subsequence) |
 | [1046-max-consecutive-ones-iii](https://github.com/Madhu73128/Coding/tree/master/1046-max-consecutive-ones-iii) |
 | [2119-minimum-number-of-operations-to-make-array-continuous](https://github.com/Madhu73128/Coding/tree/master/2119-minimum-number-of-operations-to-make-array-continuous) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/Madhu73128/Coding/tree/master/2134-maximize-the-confusion-of-an-exam) |
@@ -200,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Madhu73128/Coding/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Madhu73128/Coding/tree/master/0056-merge-intervals) |
 | [0242-valid-anagram](https://github.com/Madhu73128/Coding/tree/master/0242-valid-anagram) |
+| [0594-longest-harmonious-subsequence](https://github.com/Madhu73128/Coding/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/Madhu73128/Coding/tree/master/0621-task-scheduler) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Madhu73128/Coding/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0778-reorganize-string](https://github.com/Madhu73128/Coding/tree/master/0778-reorganize-string) |
@@ -228,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/Madhu73128/Coding/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/Madhu73128/Coding/tree/master/0621-task-scheduler) |
 | [0778-reorganize-string](https://github.com/Madhu73128/Coding/tree/master/0778-reorganize-string) |
 | [0837-most-common-word](https://github.com/Madhu73128/Coding/tree/master/0837-most-common-word) |
