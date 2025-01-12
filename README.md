@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/Madhu73128/Coding/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/Madhu73128/Coding/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Madhu73128/Coding/tree/master/0242-valid-anagram) |
+| [0257-binary-tree-paths](https://github.com/Madhu73128/Coding/tree/master/0257-binary-tree-paths) |
 | [0290-word-pattern](https://github.com/Madhu73128/Coding/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/Madhu73128/Coding/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Madhu73128/Coding/tree/master/0387-first-unique-character-in-a-string) |
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Madhu73128/Coding/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Madhu73128/Coding/tree/master/0040-combination-sum-ii) |
 | [0216-combination-sum-iii](https://github.com/Madhu73128/Coding/tree/master/0216-combination-sum-iii) |
+| [0257-binary-tree-paths](https://github.com/Madhu73128/Coding/tree/master/0257-binary-tree-paths) |
 | [0401-binary-watch](https://github.com/Madhu73128/Coding/tree/master/0401-binary-watch) |
 ## Database
 |  |
@@ -373,4 +375,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Madhu73128/Coding/tree/master/0387-first-unique-character-in-a-string) |
+## Tree
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/Madhu73128/Coding/tree/master/0257-binary-tree-paths) |
+## Depth-First Search
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/Madhu73128/Coding/tree/master/0257-binary-tree-paths) |
+## Binary Tree
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/Madhu73128/Coding/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
