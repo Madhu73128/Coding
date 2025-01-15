@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0541-reverse-string-ii](https://github.com/Madhu73128/Coding/tree/master/0541-reverse-string-ii) |
 | [0567-permutation-in-string](https://github.com/Madhu73128/Coding/tree/master/0567-permutation-in-string) |
 | [0778-reorganize-string](https://github.com/Madhu73128/Coding/tree/master/0778-reorganize-string) |
+| [0807-custom-sort-string](https://github.com/Madhu73128/Coding/tree/master/0807-custom-sort-string) |
 | [0837-most-common-word](https://github.com/Madhu73128/Coding/tree/master/0837-most-common-word) |
 | [0874-backspace-string-compare](https://github.com/Madhu73128/Coding/tree/master/0874-backspace-string-compare) |
 | [0926-find-and-replace-pattern](https://github.com/Madhu73128/Coding/tree/master/0926-find-and-replace-pattern) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/Madhu73128/Coding/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/Madhu73128/Coding/tree/master/0621-task-scheduler) |
 | [0778-reorganize-string](https://github.com/Madhu73128/Coding/tree/master/0778-reorganize-string) |
+| [0807-custom-sort-string](https://github.com/Madhu73128/Coding/tree/master/0807-custom-sort-string) |
 | [0837-most-common-word](https://github.com/Madhu73128/Coding/tree/master/0837-most-common-word) |
 | [0926-find-and-replace-pattern](https://github.com/Madhu73128/Coding/tree/master/0926-find-and-replace-pattern) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Madhu73128/Coding/tree/master/1016-subarray-sums-divisible-by-k) |
@@ -231,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/Madhu73128/Coding/tree/master/0621-task-scheduler) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Madhu73128/Coding/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0778-reorganize-string](https://github.com/Madhu73128/Coding/tree/master/0778-reorganize-string) |
+| [0807-custom-sort-string](https://github.com/Madhu73128/Coding/tree/master/0807-custom-sort-string) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Madhu73128/Coding/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Madhu73128/Coding/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2327-largest-number-after-digit-swaps-by-parity](https://github.com/Madhu73128/Coding/tree/master/2327-largest-number-after-digit-swaps-by-parity) |
