@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/Madhu73128/Coding/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/Madhu73128/Coding/tree/master/0459-repeated-substring-pattern) |
 | [0520-detect-capital](https://github.com/Madhu73128/Coding/tree/master/0520-detect-capital) |
+| [0541-reverse-string-ii](https://github.com/Madhu73128/Coding/tree/master/0541-reverse-string-ii) |
 | [0567-permutation-in-string](https://github.com/Madhu73128/Coding/tree/master/0567-permutation-in-string) |
 | [0778-reorganize-string](https://github.com/Madhu73128/Coding/tree/master/0778-reorganize-string) |
 | [0837-most-common-word](https://github.com/Madhu73128/Coding/tree/master/0837-most-common-word) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Madhu73128/Coding/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Madhu73128/Coding/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0541-reverse-string-ii](https://github.com/Madhu73128/Coding/tree/master/0541-reverse-string-ii) |
 | [0567-permutation-in-string](https://github.com/Madhu73128/Coding/tree/master/0567-permutation-in-string) |
 | [0874-backspace-string-compare](https://github.com/Madhu73128/Coding/tree/master/0874-backspace-string-compare) |
 | [0953-reverse-only-letters](https://github.com/Madhu73128/Coding/tree/master/0953-reverse-only-letters) |
