@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Madhu73128/Coding/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [2077-largest-number-after-mutating-substring](https://github.com/Madhu73128/Coding/tree/master/2077-largest-number-after-mutating-substring) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/Madhu73128/Coding/tree/master/2134-maximize-the-confusion-of-an-exam) |
+| [2235-capitalize-the-title](https://github.com/Madhu73128/Coding/tree/master/2235-capitalize-the-title) |
 | [2304-cells-in-a-range-on-an-excel-sheet](https://github.com/Madhu73128/Coding/tree/master/2304-cells-in-a-range-on-an-excel-sheet) |
 | [2422-query-kth-smallest-trimmed-number](https://github.com/Madhu73128/Coding/tree/master/2422-query-kth-smallest-trimmed-number) |
 | [2470-removing-stars-from-a-string](https://github.com/Madhu73128/Coding/tree/master/2470-removing-stars-from-a-string) |
