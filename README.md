@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Madhu73128/Coding/tree/master/0567-permutation-in-string) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Madhu73128/Coding/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0680-valid-palindrome-ii](https://github.com/Madhu73128/Coding/tree/master/0680-valid-palindrome-ii) |
+| [0696-count-binary-substrings](https://github.com/Madhu73128/Coding/tree/master/0696-count-binary-substrings) |
 | [0778-reorganize-string](https://github.com/Madhu73128/Coding/tree/master/0778-reorganize-string) |
 | [0807-custom-sort-string](https://github.com/Madhu73128/Coding/tree/master/0807-custom-sort-string) |
 | [0837-most-common-word](https://github.com/Madhu73128/Coding/tree/master/0837-most-common-word) |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0541-reverse-string-ii](https://github.com/Madhu73128/Coding/tree/master/0541-reverse-string-ii) |
 | [0567-permutation-in-string](https://github.com/Madhu73128/Coding/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/Madhu73128/Coding/tree/master/0680-valid-palindrome-ii) |
+| [0696-count-binary-substrings](https://github.com/Madhu73128/Coding/tree/master/0696-count-binary-substrings) |
 | [0874-backspace-string-compare](https://github.com/Madhu73128/Coding/tree/master/0874-backspace-string-compare) |
 | [0953-reverse-only-letters](https://github.com/Madhu73128/Coding/tree/master/0953-reverse-only-letters) |
 | [0961-long-pressed-name](https://github.com/Madhu73128/Coding/tree/master/0961-long-pressed-name) |
