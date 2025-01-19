@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Madhu73128/Coding/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0749-shortest-completing-word](https://github.com/Madhu73128/Coding/tree/master/0749-shortest-completing-word) |
 | [0837-most-common-word](https://github.com/Madhu73128/Coding/tree/master/0837-most-common-word) |
+| [0841-shortest-distance-to-a-character](https://github.com/Madhu73128/Coding/tree/master/0841-shortest-distance-to-a-character) |
 | [0926-find-and-replace-pattern](https://github.com/Madhu73128/Coding/tree/master/0926-find-and-replace-pattern) |
 | [0978-valid-mountain-array](https://github.com/Madhu73128/Coding/tree/master/0978-valid-mountain-array) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Madhu73128/Coding/tree/master/1016-subarray-sums-divisible-by-k) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0807-custom-sort-string](https://github.com/Madhu73128/Coding/tree/master/0807-custom-sort-string) |
 | [0812-rotate-string](https://github.com/Madhu73128/Coding/tree/master/0812-rotate-string) |
 | [0837-most-common-word](https://github.com/Madhu73128/Coding/tree/master/0837-most-common-word) |
+| [0841-shortest-distance-to-a-character](https://github.com/Madhu73128/Coding/tree/master/0841-shortest-distance-to-a-character) |
 | [0874-backspace-string-compare](https://github.com/Madhu73128/Coding/tree/master/0874-backspace-string-compare) |
 | [0926-find-and-replace-pattern](https://github.com/Madhu73128/Coding/tree/master/0926-find-and-replace-pattern) |
 | [0953-reverse-only-letters](https://github.com/Madhu73128/Coding/tree/master/0953-reverse-only-letters) |
@@ -262,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Madhu73128/Coding/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/Madhu73128/Coding/tree/master/0680-valid-palindrome-ii) |
 | [0696-count-binary-substrings](https://github.com/Madhu73128/Coding/tree/master/0696-count-binary-substrings) |
+| [0841-shortest-distance-to-a-character](https://github.com/Madhu73128/Coding/tree/master/0841-shortest-distance-to-a-character) |
 | [0874-backspace-string-compare](https://github.com/Madhu73128/Coding/tree/master/0874-backspace-string-compare) |
 | [0953-reverse-only-letters](https://github.com/Madhu73128/Coding/tree/master/0953-reverse-only-letters) |
 | [0961-long-pressed-name](https://github.com/Madhu73128/Coding/tree/master/0961-long-pressed-name) |
