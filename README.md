@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0812-rotate-string](https://github.com/Madhu73128/Coding/tree/master/0812-rotate-string) |
 | [0837-most-common-word](https://github.com/Madhu73128/Coding/tree/master/0837-most-common-word) |
 | [0841-shortest-distance-to-a-character](https://github.com/Madhu73128/Coding/tree/master/0841-shortest-distance-to-a-character) |
+| [0851-goat-latin](https://github.com/Madhu73128/Coding/tree/master/0851-goat-latin) |
 | [0874-backspace-string-compare](https://github.com/Madhu73128/Coding/tree/master/0874-backspace-string-compare) |
 | [0926-find-and-replace-pattern](https://github.com/Madhu73128/Coding/tree/master/0926-find-and-replace-pattern) |
 | [0953-reverse-only-letters](https://github.com/Madhu73128/Coding/tree/master/0953-reverse-only-letters) |
