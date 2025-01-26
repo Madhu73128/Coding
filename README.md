@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Madhu73128/Coding/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2422-query-kth-smallest-trimmed-number](https://github.com/Madhu73128/Coding/tree/master/2422-query-kth-smallest-trimmed-number) |
 | [2448-count-number-of-bad-pairs](https://github.com/Madhu73128/Coding/tree/master/2448-count-number-of-bad-pairs) |
+| [2476-check-distances-between-same-letters](https://github.com/Madhu73128/Coding/tree/master/2476-check-distances-between-same-letters) |
 | [2530-minimize-maximum-of-array](https://github.com/Madhu73128/Coding/tree/master/2530-minimize-maximum-of-array) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Madhu73128/Coding/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2639-separate-the-digits-in-an-array](https://github.com/Madhu73128/Coding/tree/master/2639-separate-the-digits-in-an-array) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2304-cells-in-a-range-on-an-excel-sheet](https://github.com/Madhu73128/Coding/tree/master/2304-cells-in-a-range-on-an-excel-sheet) |
 | [2422-query-kth-smallest-trimmed-number](https://github.com/Madhu73128/Coding/tree/master/2422-query-kth-smallest-trimmed-number) |
 | [2470-removing-stars-from-a-string](https://github.com/Madhu73128/Coding/tree/master/2470-removing-stars-from-a-string) |
+| [2476-check-distances-between-same-letters](https://github.com/Madhu73128/Coding/tree/master/2476-check-distances-between-same-letters) |
 | [2713-find-the-divisibility-array-of-a-string](https://github.com/Madhu73128/Coding/tree/master/2713-find-the-divisibility-array-of-a-string) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/Madhu73128/Coding/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 ## Greedy
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/Madhu73128/Coding/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Madhu73128/Coding/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2448-count-number-of-bad-pairs](https://github.com/Madhu73128/Coding/tree/master/2448-count-number-of-bad-pairs) |
+| [2476-check-distances-between-same-letters](https://github.com/Madhu73128/Coding/tree/master/2476-check-distances-between-same-letters) |
 | [2834-relocate-marbles](https://github.com/Madhu73128/Coding/tree/master/2834-relocate-marbles) |
 | [3416-sum-of-digit-differences-of-all-pairs](https://github.com/Madhu73128/Coding/tree/master/3416-sum-of-digit-differences-of-all-pairs) |
 ## Binary Search
