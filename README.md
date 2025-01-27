@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2102-find-the-middle-index-in-array](https://github.com/Madhu73128/Coding/tree/master/2102-find-the-middle-index-in-array) |
 | [2119-minimum-number-of-operations-to-make-array-continuous](https://github.com/Madhu73128/Coding/tree/master/2119-minimum-number-of-operations-to-make-array-continuous) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/Madhu73128/Coding/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
+| [2190-count-common-words-with-one-occurrence](https://github.com/Madhu73128/Coding/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2199-two-furthest-houses-with-different-colors](https://github.com/Madhu73128/Coding/tree/master/2199-two-furthest-houses-with-different-colors) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Madhu73128/Coding/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Madhu73128/Coding/tree/master/2307-replace-non-coprime-numbers-in-array) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Madhu73128/Coding/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [2077-largest-number-after-mutating-substring](https://github.com/Madhu73128/Coding/tree/master/2077-largest-number-after-mutating-substring) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/Madhu73128/Coding/tree/master/2134-maximize-the-confusion-of-an-exam) |
+| [2190-count-common-words-with-one-occurrence](https://github.com/Madhu73128/Coding/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2235-capitalize-the-title](https://github.com/Madhu73128/Coding/tree/master/2235-capitalize-the-title) |
 | [2304-cells-in-a-range-on-an-excel-sheet](https://github.com/Madhu73128/Coding/tree/master/2304-cells-in-a-range-on-an-excel-sheet) |
 | [2422-query-kth-smallest-trimmed-number](https://github.com/Madhu73128/Coding/tree/master/2422-query-kth-smallest-trimmed-number) |
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1925-count-nice-pairs-in-an-array](https://github.com/Madhu73128/Coding/tree/master/1925-count-nice-pairs-in-an-array) |
 | [2119-minimum-number-of-operations-to-make-array-continuous](https://github.com/Madhu73128/Coding/tree/master/2119-minimum-number-of-operations-to-make-array-continuous) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/Madhu73128/Coding/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
+| [2190-count-common-words-with-one-occurrence](https://github.com/Madhu73128/Coding/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Madhu73128/Coding/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2448-count-number-of-bad-pairs](https://github.com/Madhu73128/Coding/tree/master/2448-count-number-of-bad-pairs) |
 | [2476-check-distances-between-same-letters](https://github.com/Madhu73128/Coding/tree/master/2476-check-distances-between-same-letters) |
@@ -293,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Madhu73128/Coding/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/Madhu73128/Coding/tree/master/1925-count-nice-pairs-in-an-array) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/Madhu73128/Coding/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
+| [2190-count-common-words-with-one-occurrence](https://github.com/Madhu73128/Coding/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2448-count-number-of-bad-pairs](https://github.com/Madhu73128/Coding/tree/master/2448-count-number-of-bad-pairs) |
 | [3416-sum-of-digit-differences-of-all-pairs](https://github.com/Madhu73128/Coding/tree/master/3416-sum-of-digit-differences-of-all-pairs) |
 ## Number Theory
