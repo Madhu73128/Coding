@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2199-two-furthest-houses-with-different-colors](https://github.com/Madhu73128/Coding/tree/master/2199-two-furthest-houses-with-different-colors) |
 | [2530-minimize-maximum-of-array](https://github.com/Madhu73128/Coding/tree/master/2530-minimize-maximum-of-array) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/Madhu73128/Coding/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
+| [3328-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k](https://github.com/Madhu73128/Coding/tree/master/3328-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k) |
 ## Simulation
 |  |
 | ------- |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Madhu73128/Coding/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2713-find-the-divisibility-array-of-a-string](https://github.com/Madhu73128/Coding/tree/master/2713-find-the-divisibility-array-of-a-string) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/Madhu73128/Coding/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
+| [3328-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k](https://github.com/Madhu73128/Coding/tree/master/3328-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k) |
 | [3416-sum-of-digit-differences-of-all-pairs](https://github.com/Madhu73128/Coding/tree/master/3416-sum-of-digit-differences-of-all-pairs) |
 ## Dynamic Programming
 |  |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1334-sum-of-numbers-with-units-digit-k](https://github.com/Madhu73128/Coding/tree/master/1334-sum-of-numbers-with-units-digit-k) |
 | [2541-sum-of-number-and-its-reverse](https://github.com/Madhu73128/Coding/tree/master/2541-sum-of-number-and-its-reverse) |
+| [3328-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k](https://github.com/Madhu73128/Coding/tree/master/3328-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k) |
 | [3469-maximum-height-of-a-triangle](https://github.com/Madhu73128/Coding/tree/master/3469-maximum-height-of-a-triangle) |
 ## Prefix Sum
 |  |
