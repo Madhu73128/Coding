@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/Madhu73128/Coding/tree/master/0594-longest-harmonious-subsequence) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Madhu73128/Coding/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0621-task-scheduler](https://github.com/Madhu73128/Coding/tree/master/0621-task-scheduler) |
+| [0643-maximum-average-subarray-i](https://github.com/Madhu73128/Coding/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/Madhu73128/Coding/tree/master/0724-find-pivot-index) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Madhu73128/Coding/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0749-shortest-completing-word](https://github.com/Madhu73128/Coding/tree/master/0749-shortest-completing-word) |
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/Madhu73128/Coding/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Madhu73128/Coding/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/Madhu73128/Coding/tree/master/0594-longest-harmonious-subsequence) |
+| [0643-maximum-average-subarray-i](https://github.com/Madhu73128/Coding/tree/master/0643-maximum-average-subarray-i) |
 | [1046-max-consecutive-ones-iii](https://github.com/Madhu73128/Coding/tree/master/1046-max-consecutive-ones-iii) |
 | [2119-minimum-number-of-operations-to-make-array-continuous](https://github.com/Madhu73128/Coding/tree/master/2119-minimum-number-of-operations-to-make-array-continuous) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/Madhu73128/Coding/tree/master/2134-maximize-the-confusion-of-an-exam) |
