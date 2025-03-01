@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/Madhu73128/Coding/tree/master/0621-task-scheduler) |
 | [0643-maximum-average-subarray-i](https://github.com/Madhu73128/Coding/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/Madhu73128/Coding/tree/master/0724-find-pivot-index) |
+| [0735-asteroid-collision](https://github.com/Madhu73128/Coding/tree/master/0735-asteroid-collision) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Madhu73128/Coding/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0749-shortest-completing-word](https://github.com/Madhu73128/Coding/tree/master/0749-shortest-completing-word) |
 | [0837-most-common-word](https://github.com/Madhu73128/Coding/tree/master/0837-most-common-word) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0412-fizz-buzz](https://github.com/Madhu73128/Coding/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Madhu73128/Coding/tree/master/0415-add-strings) |
+| [0735-asteroid-collision](https://github.com/Madhu73128/Coding/tree/master/0735-asteroid-collision) |
 | [0874-backspace-string-compare](https://github.com/Madhu73128/Coding/tree/master/0874-backspace-string-compare) |
 | [1119-robot-bounded-in-circle](https://github.com/Madhu73128/Coding/tree/master/1119-robot-bounded-in-circle) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Madhu73128/Coding/tree/master/2288-count-operations-to-obtain-zero) |
@@ -289,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/Madhu73128/Coding/tree/master/0735-asteroid-collision) |
 | [0874-backspace-string-compare](https://github.com/Madhu73128/Coding/tree/master/0874-backspace-string-compare) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Madhu73128/Coding/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Madhu73128/Coding/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
