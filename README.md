@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0749-shortest-completing-word](https://github.com/Madhu73128/Coding/tree/master/0749-shortest-completing-word) |
 | [0837-most-common-word](https://github.com/Madhu73128/Coding/tree/master/0837-most-common-word) |
 | [0841-shortest-distance-to-a-character](https://github.com/Madhu73128/Coding/tree/master/0841-shortest-distance-to-a-character) |
+| [0924-fair-candy-swap](https://github.com/Madhu73128/Coding/tree/master/0924-fair-candy-swap) |
 | [0926-find-and-replace-pattern](https://github.com/Madhu73128/Coding/tree/master/0926-find-and-replace-pattern) |
 | [0978-valid-mountain-array](https://github.com/Madhu73128/Coding/tree/master/0978-valid-mountain-array) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Madhu73128/Coding/tree/master/1016-subarray-sums-divisible-by-k) |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0807-custom-sort-string](https://github.com/Madhu73128/Coding/tree/master/0807-custom-sort-string) |
 | [0837-most-common-word](https://github.com/Madhu73128/Coding/tree/master/0837-most-common-word) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Madhu73128/Coding/tree/master/0920-uncommon-words-from-two-sentences) |
+| [0924-fair-candy-swap](https://github.com/Madhu73128/Coding/tree/master/0924-fair-candy-swap) |
 | [0926-find-and-replace-pattern](https://github.com/Madhu73128/Coding/tree/master/0926-find-and-replace-pattern) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Madhu73128/Coding/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Madhu73128/Coding/tree/master/1112-find-words-that-can-be-formed-by-characters) |
@@ -246,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0924-fair-candy-swap](https://github.com/Madhu73128/Coding/tree/master/0924-fair-candy-swap) |
 | [1046-max-consecutive-ones-iii](https://github.com/Madhu73128/Coding/tree/master/1046-max-consecutive-ones-iii) |
 | [2119-minimum-number-of-operations-to-make-array-continuous](https://github.com/Madhu73128/Coding/tree/master/2119-minimum-number-of-operations-to-make-array-continuous) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/Madhu73128/Coding/tree/master/2134-maximize-the-confusion-of-an-exam) |
@@ -274,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Madhu73128/Coding/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0778-reorganize-string](https://github.com/Madhu73128/Coding/tree/master/0778-reorganize-string) |
 | [0807-custom-sort-string](https://github.com/Madhu73128/Coding/tree/master/0807-custom-sort-string) |
+| [0924-fair-candy-swap](https://github.com/Madhu73128/Coding/tree/master/0924-fair-candy-swap) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Madhu73128/Coding/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Madhu73128/Coding/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2327-largest-number-after-digit-swaps-by-parity](https://github.com/Madhu73128/Coding/tree/master/2327-largest-number-after-digit-swaps-by-parity) |
