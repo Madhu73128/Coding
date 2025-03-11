@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Madhu73128/Coding/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/Madhu73128/Coding/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Madhu73128/Coding/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/Madhu73128/Coding/tree/master/0075-sort-colors) |
 | [0134-gas-station](https://github.com/Madhu73128/Coding/tree/master/0134-gas-station) |
 | [0216-combination-sum-iii](https://github.com/Madhu73128/Coding/tree/master/0216-combination-sum-iii) |
 | [0377-combination-sum-iv](https://github.com/Madhu73128/Coding/tree/master/0377-combination-sum-iv) |
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/Madhu73128/Coding/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Madhu73128/Coding/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/Madhu73128/Coding/tree/master/0075-sort-colors) |
 | [0242-valid-anagram](https://github.com/Madhu73128/Coding/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/Madhu73128/Coding/tree/master/0389-find-the-difference) |
 | [0455-assign-cookies](https://github.com/Madhu73128/Coding/tree/master/0455-assign-cookies) |
@@ -302,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Madhu73128/Coding/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Madhu73128/Coding/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0075-sort-colors](https://github.com/Madhu73128/Coding/tree/master/0075-sort-colors) |
 | [0455-assign-cookies](https://github.com/Madhu73128/Coding/tree/master/0455-assign-cookies) |
 | [0541-reverse-string-ii](https://github.com/Madhu73128/Coding/tree/master/0541-reverse-string-ii) |
 | [0567-permutation-in-string](https://github.com/Madhu73128/Coding/tree/master/0567-permutation-in-string) |
