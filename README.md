@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/Madhu73128/Coding/tree/master/0216-combination-sum-iii) |
 | [0324-wiggle-sort-ii](https://github.com/Madhu73128/Coding/tree/master/0324-wiggle-sort-ii) |
 | [0377-combination-sum-iv](https://github.com/Madhu73128/Coding/tree/master/0377-combination-sum-iv) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Madhu73128/Coding/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0455-assign-cookies](https://github.com/Madhu73128/Coding/tree/master/0455-assign-cookies) |
 | [0477-total-hamming-distance](https://github.com/Madhu73128/Coding/tree/master/0477-total-hamming-distance) |
 | [0523-continuous-subarray-sum](https://github.com/Madhu73128/Coding/tree/master/0523-continuous-subarray-sum) |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Madhu73128/Coding/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Madhu73128/Coding/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Madhu73128/Coding/tree/master/0389-find-the-difference) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Madhu73128/Coding/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0424-longest-repeating-character-replacement](https://github.com/Madhu73128/Coding/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Madhu73128/Coding/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0523-continuous-subarray-sum](https://github.com/Madhu73128/Coding/tree/master/0523-continuous-subarray-sum) |
@@ -424,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Madhu73128/Coding/tree/master/0389-find-the-difference) |
 | [0401-binary-watch](https://github.com/Madhu73128/Coding/tree/master/0401-binary-watch) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Madhu73128/Coding/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Madhu73128/Coding/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0461-hamming-distance](https://github.com/Madhu73128/Coding/tree/master/0461-hamming-distance) |
 | [0477-total-hamming-distance](https://github.com/Madhu73128/Coding/tree/master/0477-total-hamming-distance) |
 | [1054-complement-of-base-10-integer](https://github.com/Madhu73128/Coding/tree/master/1054-complement-of-base-10-integer) |
@@ -490,4 +493,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1014-k-closest-points-to-origin](https://github.com/Madhu73128/Coding/tree/master/1014-k-closest-points-to-origin) |
+## Trie
+|  |
+| ------- |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Madhu73128/Coding/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 <!---LeetCode Topics End-->
