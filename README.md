@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Madhu73128/Coding/tree/master/0075-sort-colors) |
 | [0128-longest-consecutive-sequence](https://github.com/Madhu73128/Coding/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/Madhu73128/Coding/tree/master/0134-gas-station) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Madhu73128/Coding/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0216-combination-sum-iii](https://github.com/Madhu73128/Coding/tree/master/0216-combination-sum-iii) |
 | [0239-sliding-window-maximum](https://github.com/Madhu73128/Coding/tree/master/0239-sliding-window-maximum) |
 | [0324-wiggle-sort-ii](https://github.com/Madhu73128/Coding/tree/master/0324-wiggle-sort-ii) |
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Madhu73128/Coding/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0924-fair-candy-swap](https://github.com/Madhu73128/Coding/tree/master/0924-fair-candy-swap) |
 | [1046-max-consecutive-ones-iii](https://github.com/Madhu73128/Coding/tree/master/1046-max-consecutive-ones-iii) |
 | [2119-minimum-number-of-operations-to-make-array-continuous](https://github.com/Madhu73128/Coding/tree/master/2119-minimum-number-of-operations-to-make-array-continuous) |
@@ -316,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Madhu73128/Coding/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Madhu73128/Coding/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/Madhu73128/Coding/tree/master/0075-sort-colors) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Madhu73128/Coding/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0455-assign-cookies](https://github.com/Madhu73128/Coding/tree/master/0455-assign-cookies) |
 | [0541-reverse-string-ii](https://github.com/Madhu73128/Coding/tree/master/0541-reverse-string-ii) |
 | [0567-permutation-in-string](https://github.com/Madhu73128/Coding/tree/master/0567-permutation-in-string) |
