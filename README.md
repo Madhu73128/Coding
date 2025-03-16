@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2190-count-common-words-with-one-occurrence](https://github.com/Madhu73128/Coding/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2199-two-furthest-houses-with-different-colors](https://github.com/Madhu73128/Coding/tree/master/2199-two-furthest-houses-with-different-colors) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Madhu73128/Coding/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Madhu73128/Coding/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Madhu73128/Coding/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2422-query-kth-smallest-trimmed-number](https://github.com/Madhu73128/Coding/tree/master/2422-query-kth-smallest-trimmed-number) |
 | [2448-count-number-of-bad-pairs](https://github.com/Madhu73128/Coding/tree/master/2448-count-number-of-bad-pairs) |
@@ -296,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/Madhu73128/Coding/tree/master/1046-max-consecutive-ones-iii) |
 | [2119-minimum-number-of-operations-to-make-array-continuous](https://github.com/Madhu73128/Coding/tree/master/2119-minimum-number-of-operations-to-make-array-continuous) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/Madhu73128/Coding/tree/master/2134-maximize-the-confusion-of-an-exam) |
+| [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Madhu73128/Coding/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 ## Sorting
 |  |
 | ------- |
