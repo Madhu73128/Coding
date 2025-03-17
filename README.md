@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1119-robot-bounded-in-circle](https://github.com/Madhu73128/Coding/tree/master/1119-robot-bounded-in-circle) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Madhu73128/Coding/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Madhu73128/Coding/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
+| [1430-find-the-k-beauty-of-a-number](https://github.com/Madhu73128/Coding/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [2077-largest-number-after-mutating-substring](https://github.com/Madhu73128/Coding/tree/master/2077-largest-number-after-mutating-substring) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/Madhu73128/Coding/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Madhu73128/Coding/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1119-robot-bounded-in-circle](https://github.com/Madhu73128/Coding/tree/master/1119-robot-bounded-in-circle) |
 | [1236-n-th-tribonacci-number](https://github.com/Madhu73128/Coding/tree/master/1236-n-th-tribonacci-number) |
 | [1334-sum-of-numbers-with-units-digit-k](https://github.com/Madhu73128/Coding/tree/master/1334-sum-of-numbers-with-units-digit-k) |
+| [1430-find-the-k-beauty-of-a-number](https://github.com/Madhu73128/Coding/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Madhu73128/Coding/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/Madhu73128/Coding/tree/master/1925-count-nice-pairs-in-an-array) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/Madhu73128/Coding/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
@@ -295,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/Madhu73128/Coding/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/Madhu73128/Coding/tree/master/0643-maximum-average-subarray-i) |
 | [1046-max-consecutive-ones-iii](https://github.com/Madhu73128/Coding/tree/master/1046-max-consecutive-ones-iii) |
+| [1430-find-the-k-beauty-of-a-number](https://github.com/Madhu73128/Coding/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [2119-minimum-number-of-operations-to-make-array-continuous](https://github.com/Madhu73128/Coding/tree/master/2119-minimum-number-of-operations-to-make-array-continuous) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/Madhu73128/Coding/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Madhu73128/Coding/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
