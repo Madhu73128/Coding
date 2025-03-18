@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/Madhu73128/Coding/tree/master/0735-asteroid-collision) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Madhu73128/Coding/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0749-shortest-completing-word](https://github.com/Madhu73128/Coding/tree/master/0749-shortest-completing-word) |
+| [0824-number-of-lines-to-write-string](https://github.com/Madhu73128/Coding/tree/master/0824-number-of-lines-to-write-string) |
 | [0837-most-common-word](https://github.com/Madhu73128/Coding/tree/master/0837-most-common-word) |
 | [0841-shortest-distance-to-a-character](https://github.com/Madhu73128/Coding/tree/master/0841-shortest-distance-to-a-character) |
 | [0924-fair-candy-swap](https://github.com/Madhu73128/Coding/tree/master/0924-fair-candy-swap) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-reorganize-string](https://github.com/Madhu73128/Coding/tree/master/0778-reorganize-string) |
 | [0807-custom-sort-string](https://github.com/Madhu73128/Coding/tree/master/0807-custom-sort-string) |
 | [0812-rotate-string](https://github.com/Madhu73128/Coding/tree/master/0812-rotate-string) |
+| [0824-number-of-lines-to-write-string](https://github.com/Madhu73128/Coding/tree/master/0824-number-of-lines-to-write-string) |
 | [0837-most-common-word](https://github.com/Madhu73128/Coding/tree/master/0837-most-common-word) |
 | [0841-shortest-distance-to-a-character](https://github.com/Madhu73128/Coding/tree/master/0841-shortest-distance-to-a-character) |
 | [0851-goat-latin](https://github.com/Madhu73128/Coding/tree/master/0851-goat-latin) |
